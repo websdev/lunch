@@ -25,7 +25,7 @@ Fri Mar 6  | Rich Hickey: Simple Made Easy                     | 60 min  | [Link
 Fri Mar 20 | [who was present for this?]                       |         |
 Wed Mar 23 | Gary Bernhard Medley                              | 40 min  | [Link](resources/2015-03-23)
 Fri Mar 27 | Bill Scott: Bringing Change To Life               | 60 min  | [Link](resources/2015-03-27)
-Fri Apr 3  | [this space for rent. open a pull request!]       |         |
+Fri Apr 3  | Performance Talk Combo (HTTP/2, Chrome Profiling) | 30m+30m | [Link](resources/2015-04-03)
 Fri Apr 10 | Contributing to medium-editor: What we've learned | 60 min  |
 Fri Apr 17 | [this space for rent. open a pull request!]       |         |
 TBD        | [your title here]                                 | 20 min  | [Link](resources/_example)
