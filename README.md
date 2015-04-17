@@ -30,7 +30,7 @@ Fri Apr 10 | Getting familiar with the VP GTM Process          | 60 mins | [Link
 Fri Apr 17 | -                                                 |         |
 Mon Apr 20 | Contributing to medium-editor: What we've learned | 60 min  |
 Fri Apr 24 | The Basics of Nodejs                              | 60 min  | [Link](resources/2015-04-24)
-TBD        | [your title here]                                 | 20 min  | [Link](resources/_example)
+Mon Apr 27 | Implementing gratuitously animated UIs            | 60 min  | [Link](resources/2015-04-27)
 
 
 ## Rules
