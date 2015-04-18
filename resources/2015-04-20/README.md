@@ -18,6 +18,8 @@ Timeline, Part 1
 * Davi Ferreira gone Mid-December through January 2015. We reach out to him (where did he go?)
 * 01/06/2015: Davi Returns, resumes accepting pull requests ([#352](https://github.com/daviferreira/medium-editor/issues/352) and so on)
 * 01/27/2015: Nate & Noah added as [collaborators](https://github.com/daviferreira/medium-editor/commit/07641a41b8bd9499b8fa5f52d516979a249e5781)
+* 01/30/2015: [v2.1.2](https://github.com/daviferreira/medium-editor/releases/tag/2.1.2) our first release
+* 02/10/2015: Our last [commit](https://github.com/nchase/medium-editor/commit/30f4251ed7ab6f026492dcc17a50eab691a50ef8) to the master-candidate branch before we move over to medium-editor release completely
 * 02/12/2015: Met with Davi
 * 02/20/2015: Fix Tests in All Browsers + Integrate Sauce Labs on PRs ([#433](https://github.com/daviferreira/medium-editor/issues/433))
 {~the old badges were, um, kind of a lie~}
@@ -27,8 +29,10 @@ Timeline, Part 2
 ================
 
 * 02/23/2015: 1000th commit? also omg [6c9f1d428e](https://github.com/daviferreira/medium-editor/commit/6c9f1d428e32eca15f897ae5d02afa50ecc6c2f8)
+* 02/23/2015: [v3.0.0](https://github.com/daviferreira/medium-editor/releases/tag/3.0.0)
 * 03/03/2015: Add [wiki](https://github.com/daviferreira/medium-editor/wiki) with extensive documentation (well, sort of)
 * 03/05/2015: 90% Code Coverage ([#474](https://github.com/daviferreira/medium-editor/issues/474))
+* 03/23/2015: [v4.0.0](https://github.com/daviferreira/medium-editor/releases/tag/4.0.0) now trying to more closely follow semver
 
 
 Timeline, Part 3
