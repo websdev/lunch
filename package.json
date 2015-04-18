@@ -1,0 +1,26 @@
+{
+  "name": "lunch",
+  "version": "0.0.0",
+  "description": "The goal of Lunch Club is to preserve, bolster, and advance Digital's culture of excellence and innovation by sharing stuff that we love as often as possible, with as little friction, pomp, and ceremony as possible.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"no tests [yet]\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/websdev/lunch"
+  },
+  "author": "Webs (a.k.a Vistaprint Digital)",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.0.0",
+    "ejs": "^2.0.0",
+    "express": "^4.0.0",
+    "reveal.js": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/websdev/lunch/issues"
+  },
+  "homepage": "https://github.com/websdev/lunch"
+}

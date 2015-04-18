@@ -1,3 +1,0 @@
-#!/bin/bash
-
-command -v vimdeck > /dev/null 2>&1 && vimdeck --header-margin 4 README.md || { vim README.md; }
