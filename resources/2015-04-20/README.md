@@ -55,3 +55,5 @@
 * "Yet another broken WYSIWYG editor. I think your editor is as fucked as the rest of them in this category." ([#20](https://github.com/daviferreira/medium-editor/issues/20))
 * "Have you considered just making this code a plugin for Scribe?" ([#543](https://github.com/daviferreira/medium-editor/issues/543#issuecomment-91001469), [#420](https://github.com/daviferreira/medium-editor/issues/420))
 * "Can you make medium-editor work like Medium's editor?" ([#372](https://github.com/daviferreira/medium-editor/issues/372))
+
+!["24 hours later, I have no idea why this fixes anything"](/resources/2015-04-20/images/no_idea.png) <!-- .element: class="fragment" -->
