@@ -7,7 +7,6 @@
 * [`medium-editor`](https://github.com/daviferreira/medium-editor) is the library that powers rich text-editing in Tower.
 * Rich Text editing is challenging. medium-editor is fairly good as far as rich-text on the web is concerned.
 * 4800+ 'Stars', ~600 Forks, 270+ Pull Requests, 300+ Issues, ~190 Watchers
-* Nate Mielnik and Noah Chase are 'Collaborators' (as opposed to contributors)
 
 
 
