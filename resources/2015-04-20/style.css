@@ -262,10 +262,53 @@ section:first-child {
   width: 100%;
   height: 100%;
 }
-.presentationHeading {
-  color: #008000 !important;
-  text-shadow: -0.05em -0.05em #D33682, 0.05em 0.05em #36A3D3 !important;
+
+section .presentationHeading {
+  color: #008000;
+  -webkit-animation-name: rotator;
+  -webkit-animation-duration: 2000ms;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: rotator;
+  animation-duration: 2000ms;
+  animation-iteration-count: infinite;
 }
+
+@-webkit-keyframes rotator {
+  from {
+    text-shadow: -0.05em -0.05em #D33682, 0.05em 0.05em #36A3D3;
+  }
+  25% {
+    text-shadow: 0.05em -0.05em #D33682, -0.05em 0.05em #36A3D3;
+  }
+  50% {
+    text-shadow: 0.05em 0.05em #D33682, -0.05em -0.05em #36A3D3;
+  }
+  75% {
+    text-shadow: -0.05em 0.05em #D33682, 0.05em -0.05em #36A3D3;
+  }
+  to {
+    text-shadow: -0.05em -0.05em #D33682, 0.05em 0.05em #36A3D3;
+  }
+}
+
+@keyframes rotator {
+  from {
+    text-shadow: -0.05em -0.05em #D33682, 0.05em 0.05em #36A3D3;
+  }
+  25% {
+    text-shadow: 0.05em -0.05em #D33682, -0.05em 0.05em #36A3D3;
+  }
+  50% {
+    text-shadow: 0.05em 0.05em #D33682, -0.05em -0.05em #36A3D3;
+  }
+  75% {
+    text-shadow: -0.05em 0.05em #D33682, 0.05em -0.05em #36A3D3;
+  }
+  to {
+    text-shadow: -0.05em -0.05em #D33682, 0.05em 0.05em #36A3D3;
+  }
+}
+
 section .presentationHeading {
   position: absolute;
   top: -160px;
