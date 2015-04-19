@@ -4,6 +4,8 @@ var express = require('express');
 var app = express();
 
 var exec = require('child_process').exec;
+var fs = require('fs');
+var path = require('path');
 var invokeArgs = process.argv.slice(2).join(' ');
 
 var listenPort = process.env.PORT ||
@@ -19,7 +21,17 @@ var presentationFile = invokeArgs.match(/(?:presentationFile=)(.[^\s]+)\s?/) &&
   invokeArgs.match(/(?:presentationFile=)(.[^\s]+)\s?/)[1] ||
   '';
 
+var presentationDir = path.dirname(path.resolve(process.cwd() + '/' + presentationFile));
 
+var theme = invokeArgs.match(/(?:theme=)(.[^\s]+)\s?/) &&
+  invokeArgs.match(/(?:theme=)(.[^\s]+)\s?/)[1] ||
+  path.relative(process.cwd(), presentationDir + '/style.css');
+
+try {
+  fs.openSync(process.cwd() + '/' + theme, 'r');
+} catch (error) {
+  theme = './node_modules/reveal.js/css/theme/black.css';
+}
 
 app.engine('html', require('ejs').renderFile);
 
@@ -38,7 +50,8 @@ app.get('/', function(req, res){
         { src: 'node_modules/reveal.js/plugin/notes/notes.js', async: true }
       ]
     }, JSON.parse(revealOptions))),
-    presentationFile: presentationFile
+    presentationFile: presentationFile,
+    theme: theme
   });
 });
 
