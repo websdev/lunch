@@ -1,8 +1,8 @@
-# MEDIUM-EDITOR
+# MEDIUM-EDITOR <!-- .element: class="presentationHeading" -->
 
 
 
-### About :
+# About :
 
 * [`medium-editor`](https://github.com/daviferreira/medium-editor) is the library that powers rich text-editing in Tower.
 * Rich Text editing is challenging. medium-editor is fairly good as far as rich-text on the web is concerned.
