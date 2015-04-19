@@ -54,7 +54,7 @@
 * 03/24/2015: Peter Higgins, ex-Dojo project lead reaches out to contribute to medium-editor
 * 04/07/2015: The [refactor](https://github.com/daviferreira/medium-editor/compare/master...phiggins42:refactor)
 * 04/13/2015: Peter Higgins [disappointed](https://github.com/daviferreira/medium-editor/pull/554#issuecomment-92539472) in medium-editor release
-
+* *Miguel de Icaza, [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)* <!-- .element: class="fragment" -->
 
 
 # Interesting Comments
