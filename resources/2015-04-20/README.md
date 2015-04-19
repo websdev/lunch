@@ -65,3 +65,13 @@
 * "Can you make medium-editor work like Medium's editor?" ([#372](https://github.com/daviferreira/medium-editor/issues/372))
 
 !["24 hours later, I have no idea why this fixes anything"](/resources/2015-04-20/images/no_idea.png) <!-- .element: class="fragment" -->
+
+
+
+# Questions?
+
+* [`github.com/daviferreira/medium-editor/`](https://github.com/daviferreira/medium-editor/)
+* [`semver.org`](http://semver.org)
+* [`travis-ci.org`](https://travis-ci.org)
+* [`saucelabs.com`](https://saucelabs.com)
+* [`github.com/jsdevel/open-source-etiquette` (list of open source contribution maxims)](https://github.com/jsdevel/open-source-etiquette)
