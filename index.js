@@ -41,6 +41,7 @@ app.set('views', process.cwd());
 app.get('/', function(req, res){
   res.render('presentation.ejs', {
     revealOptions: JSON.stringify(Object.assign({
+      center: false,
       dependencies: [
         { src: 'node_modules/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
         { src: 'node_modules/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
