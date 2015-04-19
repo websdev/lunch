@@ -69,6 +69,8 @@
 
 # Questions?
 
+#### Useful Links: <!-- .element: class="alignLeft" -->
+
 * [`github.com/daviferreira/medium-editor/`](https://github.com/daviferreira/medium-editor/)
 * [`semver.org`](http://semver.org)
 * [`travis-ci.org`](https://travis-ci.org)

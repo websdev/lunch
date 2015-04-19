@@ -275,3 +275,7 @@ section .presentationHeading {
   margin: auto;
   height: 160px;
 }
+
+.alignLeft {
+  text-align: left;
+}
