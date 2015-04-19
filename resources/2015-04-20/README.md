@@ -11,11 +11,19 @@
 
 
 
-# The First Dates
+# The First Date
 
-* 12/11/2014:  Fixed an IE Paste Bug that I found in an issue ([#340](https://github.com/daviferreira/medium-editor/issues/340) -> [#342](https://github.com/daviferreira/medium-editor/issues/342))
-* Davi Ferreira gone Mid-December through January 2015. We reach out to him (where did he go?)
-* 01/06/2015: Davi Returns, resumes accepting pull requests ([#352](https://github.com/daviferreira/medium-editor/issues/352) and so on)
+* 12/11/2014:  Found exisiting issue, fixed bug, opened pull request ([#340](https://github.com/daviferreira/medium-editor/issues/340) -> [#342](https://github.com/daviferreira/medium-editor/issues/342))
+
+
+
+# Davi Disappears <!-- .element class="fragment" data-fragment-index="2" -->
+
+* More pull requests ([#344](https://github.com/daviferreira/medium-editor/issues/344), [#345](https://github.com/daviferreira/medium-editor/issues/345), [#348](https://github.com/daviferreira/medium-editor/issues/348), [#350](https://github.com/daviferreira/medium-editor/issues/350), [#351](https://github.com/daviferreira/medium-editor/issues/351) [#352](https://github.com/daviferreira/medium-editor/issues/352), [#357](https://github.com/daviferreira/medium-editor/issues/357), [#358](https://github.com/daviferreira/medium-editor/issues/358))
+* 12/14/2014 to 01-06-2015 <!-- .element class="fragment" data-fragment-index="1" -->
+* We reach out to him (spelunking, Twitter). <!-- .element class="fragment" -->
+* Where did he go? <!-- .element: class="fragment" -->
+* Davi Returns, resumes accepting pull requests <!-- .element: class="fragment" -->
 
 
 
