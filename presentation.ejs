@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lunch Club</title>
+    <link rel="stylesheet" href="./node_modules/reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="<%= theme %>" id="theme">
+    <script src="./node_modules/reveal.js/lib/js/head.min.js"></script>
+    <script src="./node_modules/reveal.js/js/reveal.js"></script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="<%= presentationFile %>"
+          data-separator="^\n\n\n"
+          data-separator-vertical="^\n\n"
+          data-separator-notes="^Note:"
+        >
+        </section>
+      </div>
+    </div>
+    <script>
+      Reveal.initialize(<%- revealOptions %>);
+    </script>
+  </body>
+</html>

@@ -28,7 +28,7 @@ Fri Mar 27 | Bill Scott: Bringing Change To Life               | 60 min  | [Link
 Fri Apr 3  | Performance Talk Combo (HTTP/2, Chrome Profiling) | 30m+30m | [Link](resources/2015-04-03)
 Fri Apr 10 | Getting familiar with the VP GTM Process          | 60 mins | [Link](resources/2015-04-10)
 Fri Apr 17 | -                                                 |         |
-Mon Apr 20 | Contributing to medium-editor: What we've learned | 60 min  |
+Mon Apr 20 | Contributing to medium-editor: What we've learned | 60 min  | [Link](resources/2015-04-20)
 Fri Apr 24 | The Basics of Nodejs                              | 60 min  | [Link](resources/2015-04-24)
 Mon Apr 27 | Implementing gratuitously animated UIs            | 60 min  | [Link](resources/2015-04-27)
 
