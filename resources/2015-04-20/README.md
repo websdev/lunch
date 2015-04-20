@@ -57,6 +57,7 @@
 * *Miguel de Icaza, ["Open Source Contribution Etiquette"](http://tirania.org/blog/archive/2010/Dec-31.html)*
 
 
+
 # Interesting Comments
 
 * "Yet another broken WYSIWYG editor. I think your editor is as fucked as the rest of them in this category." ([#20](https://github.com/daviferreira/medium-editor/issues/20))
