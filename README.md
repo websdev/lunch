@@ -46,3 +46,37 @@ It's completely OK to introduce tentative entries with a 'TBD' date
 (imagine a scenario where you want to share something, but you aren't ready to commit to a date yet).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+
+
+## Presenting
+
+If your discussion requires a presentation, the `README.md` can be used to automagically
+generate and open a presentation via npm's `start` task with some additional parameters.
+
+Presentations are powered by the awesome [reveal.js](https://github.com/hakimel/reveal.js)
+library which is a dependency of this repo - be sure to `npm install` if you plan to present.
+
+The `start` task takes the following arguments:
+
+`presentationFile` (required) which needs to be a root-relative path to the markdown file
+containing the "slides".
+
+`revealOptions` (optional) is escaped JSON which is passed to the reveal.js presenter.
+[Here are the options](https://github.com/hakimel/reveal.js#configuration).
+
+`theme` (optional) is a root-relative path to the stylesheet to use for the presentation.
+When this option is omitted, the presenter will first look for a stylesheet adjacent to the passed
+`presentationFile`.  If nothing is given or found, this will default to reveal.js's `black` theme.
+
+Example:
+
+```
+npm start presentationFile="resources/2015-04-20/README.md"
+```
+
+In the example above, since `resources/2015-04-20/README.md` has an adjacent `style.css`, it will render
+a special stylesheet without needing an additional `theme=` parameter to be passed.
+
+A number of themes are available through the reveal.js dependency that will not
+require any additional CSS to be written. Just pass a path to the `theme` argument,
+e.g. `theme="./node_modules/reveal.js/css/theme/white.css"`.
