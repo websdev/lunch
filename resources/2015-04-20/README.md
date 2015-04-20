@@ -18,10 +18,10 @@
 
 # Davi Disappears <!-- .element class="fragment" data-fragment-index="2" -->
 
-* More pull requests ([#344](https://github.com/daviferreira/medium-editor/issues/344), [#345](https://github.com/daviferreira/medium-editor/issues/345), [#348](https://github.com/daviferreira/medium-editor/issues/348), [#350](https://github.com/daviferreira/medium-editor/issues/350), [#351](https://github.com/daviferreira/medium-editor/issues/351) [#352](https://github.com/daviferreira/medium-editor/issues/352), [#357](https://github.com/daviferreira/medium-editor/issues/357), [#358](https://github.com/daviferreira/medium-editor/issues/358))
-* 12/14/2014 to 01-06-2015 <!-- .element class="fragment" data-fragment-index="1" -->
+![Where did he go?](/resources/2015-04-20/images/davi_missing.jpg)<!-- .element class="fragment" style="text-align: center; width: 200px;" data-fragment-index="2" -->
+
+* Mid-December to Early January: More pull requests ([#344](https://github.com/daviferreira/medium-editor/issues/344), [#345](https://github.com/daviferreira/medium-editor/issues/345), [#348](https://github.com/daviferreira/medium-editor/issues/348), [#350](https://github.com/daviferreira/medium-editor/issues/350), [#351](https://github.com/daviferreira/medium-editor/issues/351) [#352](https://github.com/daviferreira/medium-editor/issues/352), [#357](https://github.com/daviferreira/medium-editor/issues/357), [#358](https://github.com/daviferreira/medium-editor/issues/358))
 * We reach out to him (spelunking, Twitter). <!-- .element class="fragment" -->
-* Where did he go? <!-- .element: class="fragment" -->
 * Davi Returns, resumes accepting pull requests <!-- .element: class="fragment" -->
 
 
