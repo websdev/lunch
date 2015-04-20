@@ -319,6 +319,11 @@ section .presentationHeading {
   height: 160px;
 }
 
+.print-pdf section .presentationHeading {
+  position: relative;
+  top: auto;
+}
+
 .alignLeft {
   text-align: left;
 }

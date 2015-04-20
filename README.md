@@ -80,3 +80,5 @@ a special stylesheet without needing an additional `theme=` parameter to be pass
 A number of themes are available through the reveal.js dependency that will not
 require any additional CSS to be written. Just pass a path to the `theme` argument,
 e.g. `theme="./node_modules/reveal.js/css/theme/white.css"`.
+
+PDFs can be generated from presentations with the `?print-pdf` query param.

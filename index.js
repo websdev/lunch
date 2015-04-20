@@ -51,7 +51,8 @@ app.get('/', function(req, res){
       ]
     }, JSON.parse(revealOptions))),
     presentationFile: presentationFile,
-    theme: theme
+    theme: theme,
+    printable: (typeof req.query['print-pdf'] !== "undefined")
   });
 });
 
