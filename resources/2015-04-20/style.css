@@ -323,6 +323,8 @@ section .presentationHeading {
   position: relative;
   top: auto;
   color: #36A3D3;
+  -webkit-animation-name: none;
+  animation-name: none;
 }
 
 .alignLeft {
