@@ -322,6 +322,7 @@ section .presentationHeading {
 .print-pdf section .presentationHeading {
   position: relative;
   top: auto;
+  color: #36A3D3;
 }
 
 .alignLeft {
