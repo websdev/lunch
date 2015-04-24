@@ -82,3 +82,6 @@ require any additional CSS to be written. Just pass a path to the `theme` argume
 e.g. `theme="./node_modules/reveal.js/css/theme/white.css"`.
 
 PDFs can be generated from presentations with the `?print-pdf` query param.
+
+In presentations, [two line breaks](presentation.ejs#L19) will create a new vertical slide.
+[Three line breaks](presentation.ejs#L18) will create a new horizontal slide.
