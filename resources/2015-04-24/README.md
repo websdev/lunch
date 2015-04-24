@@ -32,6 +32,7 @@ programming novices will get value out of listening.
 * init <!-- .element class="fragment" -->
 * install <!-- .element class="fragment" -->
 * install -g <!-- .element class="fragment" -->
+* semver ([calculator](http://semver.npmjs.com/)) <!-- .element class="fragment" -->
 * main file <!-- .element class="fragment" -->
 * index.js convention and relative paths <!-- .element class="fragment" -->
 
@@ -40,3 +41,9 @@ programming novices will get value out of listening.
 
 * configuration driven tasks (copying, compiling, linting, restarting, etc) <!-- .element class="fragment" -->
 * popular modules: Grunt and Gulp <!-- .element class="fragment" -->
+
+
+# Do something fun <!-- .element data-fragment-index="4" -->
+
+* build a flappy birds game server in 5 minutes or less using Node, grunt, npm (ohh... and also github)
+* [repo](https://github.com/ellisonleao/clumsy-bird)
