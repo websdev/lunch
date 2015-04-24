@@ -6,6 +6,9 @@ with as little friction, pomp, and ceremony as possible.
 
 Any person at any location can share. Scrounge up and/or synthesize something awesome and share it!
 
+**WARNING**
+
+This repo is public.  DO NOT put any webs confidential information in here!
 
 ## Acceptable Content
 
