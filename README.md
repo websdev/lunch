@@ -35,6 +35,7 @@ Mon Apr 20 | Contributing to medium-editor: What we've learned | 60 min  | [Link
 Fri Apr 24 | The Basics of Nodejs                              | 60 min  | [Link](resources/2015-04-24)
 Mon Apr 27 | Implementing gratuitously animated UIs            | 60 min  | [Link](resources/2015-04-27)
 Fri May 01 | the JVM in the 21st century                       | 60 min  | [Link](resources/2015-05-01)
+Mon May 04 | Pycon talk: The average programmer                | 45 min  | [Video](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 
 ## Rules
 
