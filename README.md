@@ -89,3 +89,18 @@ PDFs can be generated from presentations with the `?print-pdf` query param.
 
 In presentations, [two line breaks](presentation.ejs#L19) will create a new vertical slide.
 [Three line breaks](presentation.ejs#L18) will create a new horizontal slide.
+
+## Reading the Slides
+
+Often times markup-like code is added to the presentations to allow for things like slide "fragments".
+
+"Fragments" are revealed when the presenter wants to show them
+(instead of everything being displayed at once when the slide is presented).
+
+If you're just reading the content of the slides you probably want to remove that extra code.
+
+You can view the notes without that extra code with something like this:
+
+``` sh
+sed s/\<\!--\.\*--\>//g resources/2015-05-01/README.md | less
+```
