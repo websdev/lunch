@@ -1,0 +1,5 @@
+        range(0, 100)
+                .mapToObj(i -> randomString(new Random(), 'A', 'Z', 10))
+                .sorted()
+                .collect(groupingBy(name -> name.charAt(0)))
+                .forEach((letter, names) -> <print>(letter + "\n\t" + names.stream().collect(joining("\n\t"))));
