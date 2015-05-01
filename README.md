@@ -104,3 +104,9 @@ You can view the notes without that extra code with something like this:
 ``` sh
 sed s/\<\!--\.\*--\>//g resources/2015-05-01/README.md | less
 ```
+
+And here's an example for vim with Markdown syntax highlighting:
+
+``` sh
+sed s/\<\!--\.\*--\>//g resources/2015-05-01/README.md | vim - -c "set syntax=markdown"
+```
