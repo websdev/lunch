@@ -12,11 +12,6 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: 'spring-boot'
 
-jar {
-    baseName = 'gs-spring-boot'
-    version =  '0.1.0'
-}
-
 repositories {
     mavenCentral()
 }
