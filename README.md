@@ -36,6 +36,8 @@ Fri Apr 24 | The Basics of Nodejs                              | 60 min  | [Link
 Mon Apr 27 | Implementing gratuitously animated UIs            | 60 min  | [Link](resources/2015-04-27)
 Fri May 01 | the JVM in the 21st century                       | 60 min  | [Link](resources/2015-05-01)
 Mon May 04 | Pycon talk: The average programmer                | 45 min  | [Video](https://www.youtube.com/watch?v=hIJdFxYlEKE)
+Fri May 15 | -                                                 |         |
+Fri May 22 | Douglas Adams's Hyperland                         | 50 min  | [Link](resources/2015-05-22)
 
 ## Rules
 
