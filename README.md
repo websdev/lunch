@@ -38,6 +38,7 @@ Fri May 01 | the JVM in the 21st century                       | 60 min  | [Link
 Mon May 04 | Pycon talk: The average programmer                | 45 min  | [Video](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 Wed May 13 | How We React                                      | 60 min  | [Link](resources/2015-05-13)
 Fri May 15 | -                                                 |         |
+Mon May 18 | tpope and Vim                                     | 60 min  | [Link](resources/2015-05-18)
 Fri May 22 | Douglas Adams's Hyperland                         | 50 min  | [Link](resources/2015-05-22)
 
 ## Rules
