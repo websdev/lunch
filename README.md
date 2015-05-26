@@ -40,6 +40,7 @@ Wed May 13 | How We React                                      | 60 min  | [Link
 Fri May 15 | -                                                 |         |
 Mon May 18 | tpope and Vim                                     | 60 min  | [Link](resources/2015-05-18)
 Fri May 22 | Douglas Adams's Hyperland                         | 50 min  | [Link](resources/2015-05-22)
+Wed May 27 | The Soul of Software                              | 45 min  | [Link](http://devblog.avdi.org/2015/05/21/the-soul-of-software/)
 
 ## Rules
 
