@@ -3,3 +3,5 @@
 Five Architecture-Independent Institutionalizable Behaviors to achieve more accurate UIs.
 Use these old tricks with any past present or future toolsets,
 in monoliths, microservices, or anywhere else. IE8+
+
+[Slides](http://css.ahfr.org/slides-better-uis.md)
