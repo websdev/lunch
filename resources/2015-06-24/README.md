@@ -22,7 +22,7 @@
 
 ### Recreating a dialup modem in javascript
 * [Sam Saccone](http://twitter.com/samccone)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Ravi Singh
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-A.md)
 
 
@@ -41,7 +41,7 @@
 
 ### Building a musical instrument with the Web Audio API
 * [Steve Kinney](http://twitter.com/stevekinney)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Ravi Singh
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/13-A.md)
 
 
