@@ -15,10 +15,10 @@
 
 ### Woah, You Can Test IE & Microsoft Edge on a Mac & Linux?
 * Rey Bango
-* Summary By: [YOUR NAME HERE]
+* Summary By: Jeremy Paskali
 
 
->OS X and Linux are two very popular operating system choices for web developers but they still want to be able to test Internet Explorer and the new Microsoft Edge browsers. In this talk, we'll discuss the state of browser marketshare, the options available for testing these browsers on OS X & Linux and new tools that offer enhanced testing capabilities for mobile browsers
+> OS X and Linux are two very popular operating system choices for web developers but they still want to be able to test Internet Explorer and the new Microsoft Edge browsers. In this talk, we'll discuss the state of browser marketshare, the options available for testing these browsers on OS X & Linux and new tools that offer enhanced testing capabilities for mobile browsers
 
 
 
