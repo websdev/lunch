@@ -121,7 +121,7 @@
 
 ### Knitting for Javascripters
 * [Mariko Kosaka](http://twitter.com/kosamari)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Erin DeThorne
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/07-A.md)
 
 
