@@ -109,7 +109,7 @@
 
 ### Drawing Hands: Built-ins written in JavaScript
 * [JOHN-DAVID DALTON](http://www.twitter.com/jdalton)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Patrick Cavanaugh
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/16-B.md)
 
 

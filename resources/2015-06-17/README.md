@@ -110,7 +110,9 @@
 
 ### Mutations and Subscriptions in Relay
 * Laney Kuenzel
-* Summary By: [YOUR NAME HERE]
+* Summary By: Patrick Cavanaugh
+* [Slides](https://speakerdeck.com/laneyk/mutations-in-relay)
+* [GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 
 
 >A dive into how the Relay framework makes it simple for developers to implement mutations (data writes) and real-time updates.
