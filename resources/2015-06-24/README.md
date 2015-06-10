@@ -128,7 +128,7 @@
 
 ### Zombies and Soup: Why End-to-End testing sucks (and why it doesn't have to)
 * [Dave Cadwallader](http://www.twitter.com/geek_dave)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Erin DeThorne
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/17-B.md)
 
 
