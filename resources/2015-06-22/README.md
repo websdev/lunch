@@ -100,7 +100,7 @@
 
 ### (math == art && art == code)
 * [John Brown](http://twitter.com/thisisjohnbrown)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Gal Shenar
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/06-A.md)
 
 
