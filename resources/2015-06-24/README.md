@@ -140,7 +140,7 @@
 
 ### Cold War
 * [Simon Swain](http://twitter.com/simon_swain)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Michael Barrett
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/08-A.md)
 
 
