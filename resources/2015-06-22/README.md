@@ -53,7 +53,7 @@
 
 ### Communicate All the Things... With WebRTC!
 * Kyle Tyacke
-* Summary By: [YOUR NAME HERE]
+* Summary By: Pat Hayes
 
 
 >In this talk we’ll look take a look at WebRTC, a rather new technology that is giving Javascript developers the tools to add real-time communications features to their applications without the need for plugins or learning a new language. We’ll examine the key components of this standard, look at how peer to peer connections are established, and discuss how you can start adding features like video calling and screen sharing to your applications today using the Respoke Javascript library!
