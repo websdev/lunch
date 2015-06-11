@@ -71,7 +71,7 @@
 
 ### Umm... I have to do WHAT to run this code?
 * [Gord Tanner](http://twitter.com/gordtanner)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Dan Giorgetti
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/14-B.md)
 
 

@@ -92,7 +92,7 @@
 
 ### Would a sample at any other rate sound as sweet? An introduction to how our brains interpret sound
 * Myles Borins
-* Summary By: [YOUR NAME HERE]
+* Summary By: Dan Giorgetti
 
 
 >In this talk we will explore signal processing, specifically how our brain interprets sound. We will explore some of the basic theory behind how music is digitally encoded and look back at some of the history and science behind the western musical cannon.
