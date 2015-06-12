@@ -81,7 +81,7 @@
 
 ### Visualizing process evolution
 * [Dann Toliver](http://www.twitter.com/dann)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Thomas Gideon
 * [Notes](https://github.com/nchase/talks/commit/6c44c1339d9868e58880930d803145d7c74c95a7)
 
 
