@@ -91,7 +91,7 @@
 
 ### NodeBots: LIVE!
 * [Kassandra Perch](http://twitter.com/nodebotanist)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Chris LaPointe
 
 
 > Our semi-yearly episode of NodeBots:Live! We'll have so much to talk (and dance) about! Want to be on the panel? Let me know: the@nodebotani.st
