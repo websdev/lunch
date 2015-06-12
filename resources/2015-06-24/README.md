@@ -42,8 +42,8 @@
 
 
 ### Making Relational Cool Again (or: JavaScript on ACID)
-* [Time Griesser](http://twitter.com/tgriesser)
-* Summary By: [YOUR NAME HERE]
+* [Tim Griesser](http://twitter.com/tgriesser)
+* Summary By: Matthew Halbe
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/03-A.md)
 
 
