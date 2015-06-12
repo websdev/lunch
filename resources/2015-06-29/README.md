@@ -157,7 +157,7 @@
 
 ### Altering the real world with JavaScript
 * [Jan Jongboom](http://www.twitter.com/janjongboom)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Chris LaPointe
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/19-A.md)
 
 
