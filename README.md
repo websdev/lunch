@@ -10,6 +10,14 @@ Any person at any location can share. Scrounge up and/or synthesize something aw
 
 This repo is public.  DO NOT put any webs confidential information in here!
 
+## Calling in Remotely
+
+For those of you who would like to attend but can't be at the lunch talk in person, we'll use the following meetme number when we present:
+
+`886283733`
+
+Ask any of the contributors, or @nchase for the meetme pin.
+
 ## Acceptable Content
 
 Almost anything is acceptable.
