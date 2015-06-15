@@ -50,7 +50,7 @@ Mon May 18 | tpope and Vim                                     | 60 min  | [Link
 Fri May 22 | Douglas Adams's Hyperland                         | 50 min  | [Link](resources/2015-05-22)
 Wed May 27 | The Soul of Software                              | 45 min  | [Link](http://devblog.avdi.org/2015/05/21/the-soul-of-software/)
 Fri Jun 05 | Building Better UIs                               | 60 min  | [Link](resources/2015-06-05)
-Mon Jun 15 | Semantic Version - My Knowledge v0.1.0            | 60 min  | [Link](http://semver.org/)
+Mon Jun 15 | Semantic Version - My Knowledge v0.1.0            | 60 min  | [Link](https://github.com/nmielnik/notes/blob/master/semver-talk-06-15-2015/README.md)
 
 ## Rules
 
