@@ -24,7 +24,7 @@
 
 ### Beyond Responsive: Building a mobile web you're f*ing proud of
 * [Kate Hudson](http://twitter.com/k88hudson)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Matthew Dantas-McCutcheon
 
 
 > <!-- .element style="font-size: 80%;" --> Making the mobile web platform better, both for ourselves and for the next two billion users, is one of the most important challenges of our careers. It's not enough to rely on standards organizations and browser vendors to solve our technical and cultural problems. We've got to do more. I'm going to take a look at solving problems such as performance, routing, and offline experiences by circumventing the DOM, building hybrid Android apps, and using persistent background queues. Not that these approaches will solve all your problems – but rather, help you set new benchmarks, give greater clarity and direction to the bugs you file on browser vendors, and ultimately get you better results. By making bold technical decisions, we move the web forward. Instead of improving and optimizing the problematic paradigms/assumptions under which the web was built, we should borrow patterns from other mobile platforms or invent new ones. We also need to understand how the experience of coming online for the first time will be very different for the next generation of primarily non-North American mobile users.
@@ -62,7 +62,7 @@
 
 ### Async Programming in ES7
 * [Jafar Husain](http://twitter.com/Jhusain)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Matthew Dantas-McCutcheon
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/04-A.md)
 
 
