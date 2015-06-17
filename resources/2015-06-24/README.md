@@ -159,7 +159,7 @@
 
 ### Parallelism experiments in JavaScript
 * [Naveed Ihsanullah](http://twitter.com/naveedi)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Noah Chase
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)
 
 
@@ -178,7 +178,7 @@
 
 ### Polymer: The future of Web Components
 * Chris Lorenzo
-* Summary By: [YOUR NAME HERE]
+* Summary By: Noah Chase
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/10-B.md)
 
 
