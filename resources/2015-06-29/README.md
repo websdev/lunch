@@ -61,7 +61,7 @@
 
 ### Maintaining a Local Dev Meetup
 * [Jacob Roufa](http://twitter.com/jroufa)
-* Summary By: [YOUR NAME HERE]
+* Summary By: Noah Chase
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/14-A.md)
 
 
