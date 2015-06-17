@@ -31,7 +31,7 @@
 
 ### Tungsten.js: Virtual DOM + Server Rendering in a Legacy Codebase
 * Andrew Rota
-* Summary By: [YOUR NAME HERE]
+* Summary By: Nate Mielnik
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-B.md)
 
 
