@@ -14,11 +14,93 @@
 
 
 ### Woah, You Can Test IE & Microsoft Edge on a Mac & Linux?
-* Rey Bango
-* Summary By: Jeremy Paskali
+* Talk by: Rey Bango, Web Developer Advocate at Microsoft
+* Summary by: Jeremy Paskali
 
 
-> OS X and Linux are two very popular operating system choices for web developers but they still want to be able to test Internet Explorer and the new Microsoft Edge browsers. In this talk, we'll discuss the state of browser marketshare, the options available for testing these browsers on OS X & Linux and new tools that offer enhanced testing capabilities for mobile browsers
+Problem: You are on Mac or Linux and you want to test the top browsers and devices for compatibility.
+
+Internet Explorer global market share in May, 2015:
+* 55% (netmarketshare.com)
+* 20% (StatCounter)
+
+![](https://cdn.css-tricks.com/wp-content/uploads/2013/10/overlappingBrowsers.png)
+
+
+### dev.modern.ie
+
+![](https://s3.amazonaws.com/uploads.hipchat.com/226/598147/OBRng1jcfOuEOsu/upload.png)
+
+Note:
+1. Microsoft IE + Edge tools, dev status, news, demos etc
+2. Request features
+3. View status of features: Under Consideration, In Development, Deployed
+
+
+### RemoteIE
+
+* Virtualized instance of IE without a VM
+* Appears like you are running IE natively on Mac and Linux
+
+![](https://remote.modern.ie/images/a437dcc5.step-3.png)
+
+Note:
+1. Download and install Remote Desktop
+2. Sign in with Microsoft Account
+3. Launch IE
+4. Enter a URL and test
+
+
+### Ngrok
+
+Provides a public URL that tunnels to your local web server
+
+![](https://ngrok.com/static/img/demo.png)
+
+
+### Virtual Machines
+
+![](https://s3.amazonaws.com/uploads.hipchat.com/226/598147/ZkdyMo2eUEXGznQ/upload.png)
+
+Note:
+1. Select IE and OS combination
+2. Select VM platform: Parallels, VirtualBox, VMware
+3. Free download
+4. 90 day limit: take snapshot to revert to day 1
+
+
+### Site Scan
+
+Scan any public URL to test against specific list of issues
+
+![](https://s3.amazonaws.com/uploads.hipchat.com/226/598147/6CYtORPEYFCdKyM/upload.png)
+
+Note:
+1. Static code scan of any URL
+2. Older IE issues
+3. Cross browser experience
+4. Windows 8 features (touch, flip, tiles)
+5. Accessibility
+
+
+### Browser Screenshots
+
+Experience your website across OSes, browsers, and form factors
+
+![](https://s3.amazonaws.com/uploads.hipchat.com/226/598147/ErVTVYBKVfrXVgd/upload.png)
+
+
+### Vorlon.js
+
+Remotely debug and test JavaScript across all platforms and browsers.
+
+![](https://s3.amazonaws.com/uploads.hipchat.com/226/598147/EPBZOI4Nu6auqF5/upload.png)
+
+Note:
+1. Open source
+2. Runs on Node.js, Socket.io
+3. Extensible plugin architecture
+4. Remote devices talk to local server with small snippet on web page
 
 
 
