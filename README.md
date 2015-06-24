@@ -54,6 +54,7 @@ Mon Jun 15 | Semantic Version - My Knowledge v0.1.0            | 60 min  | [Link
 Mon Jun 22 | Jeremy Ashkenas: Rise of the Transpilers          | 45 min  | [Link](https://github.com/nmielnik/notes/blob/master/resources/2015-06-22/README.md)
 Wed Jun 24 | JSConf - Lightning Talk Style (Part 1)            | 60 min  | [Link](resources/2015-06-24)
 Mon Jun 29 | JSConf - Lightning Talk Style (Part 2)            | 60 min  | [Link](resources/2015-06-29)
+Wed Jul 1  | code is a job                                     | 30 min  | [Slides](https://speakerdeck.com/garann/code-is-a-job)
 
 
 ## Rules
