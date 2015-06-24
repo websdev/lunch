@@ -3,13 +3,23 @@
 
 
 
-### Accessibility and JS: side-by-side
-* [Felipe de Albuquerque](https://twitter.com/felipedeolinda)
-* Summary By: [YOUR NAME HERE]
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/01-A.md)
+### You Won’t Believe This One Weird Way to Rewrite Closures
+* [Jonathan Martin](http://www.twitter.com/nybblr)
+* Summary By: Nate Mielnik
+* [Notes](https://github.com/nmielnik/talks/blob/master/2015/jsconf/04-B.md)
 
 
-> Through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps.
+>Closures are undoubtedly the most powerful feature JavaScript inherited from its Lisp forbears. But would JS be so powerful… without them? We’ll reimplement closures entirely from scratch without the convenience of native local variables or function parameters. Entirely in JavaScript. Using prototypal inheritance, some clever hat-tips from graphics programming, amnesic function bodies, and this one weird global variable.
+
+
+
+### JavaScript CSS
+* [Parsha Pourkhomami](http://twitter.com/parshap)
+* Summary By: Nate Mielnik
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/05-A.md)
+
+
+> <!-- .element style="font-size: 80%;" --> CSS has a number of deficiencies: no namespacing, dependency management, code isolation, or robust dead code elimination. It also has confusing cascading behavior and no way to share logic or constants with front-end code. We've created various hacks and alternative languages to resolve these issues, but the best solution has been right under our noses: JavaScript. By using JavaScript and its ecosystem, the require() module system gives us namespacing and dependency management, existing tools like UglifyJS can eliminate dead code, the confusing cascading behavior of CSS can be bypassed completely, and shared logic and constants can be written in one place. Take it a step further and we can polyfill CSS features, calculate critical path styles, and perform other mad science.
 
 
 
@@ -113,16 +123,6 @@ Note:
 
 
 
-### Headless Testing Against Real Web Browsers
-* Mike Ball
-* Summary By: Noah Chase
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/02-B.md)
-
-
-> <!-- .element style="font-size: 80%;" -->  Continuous integration ensures software's health with each each codebase change, ideally via automated tests and other quality-assurance processes. Tools like Phantomjs offer a great path towards headless JavaScript testing, but what about those scenarios where the software under test requires an actual GUI web browser? Think NW.js, Flash, and Google Polymer web-component-tester. X Virtual Frame Buffer provides an excellent solution towards lightweight, headless testing against real web browsers. In this talk, I'll offer some background on X Virtual Frame Buffer, and demo how to test a Google Polymer web component on a lightweight Ubuntu VM in continuous integration.
-
-
-
 ### Making Relational Cool Again (or: JavaScript on ACID)
 * [Tim Griesser](http://twitter.com/tgriesser)
 * Summary By: Matthew Halbe
@@ -149,26 +149,6 @@ Note:
 
 
 > <!-- .element style="font-size: 80%;" --> Currently there are ES7 features proposed for async programming that have never been seen in a programming language before. If accepted, these proposals could allow entire JS applications to be written without a single callback! By providing the same level of support for async functions as regular functions, ES7 could dramatically alter the way everyday developers write code. Imagine reading data from a stream or a web socket with a simple loop. Imagine catching async errors using try/catch, and never again finding yourself in the callback pyramid of doom.
-
-
-
-### You Won’t Believe This One Weird Way to Rewrite Closures
-* [Jonathan Martin](http://www.twitter.com/nybblr)
-* Summary By: Nate Mielnik
-* [Notes](https://github.com/nmielnik/talks/blob/master/2015/jsconf/04-B.md)
-
-
->Closures are undoubtedly the most powerful feature JavaScript inherited from its Lisp forbears. But would JS be so powerful… without them? We’ll reimplement closures entirely from scratch without the convenience of native local variables or function parameters. Entirely in JavaScript. Using prototypal inheritance, some clever hat-tips from graphics programming, amnesic function bodies, and this one weird global variable.
-
-
-
-### JavaScript CSS
-* [Parsha Pourkhomami](http://twitter.com/parshap)
-* Summary By: Nate Mielnik
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/05-A.md)
-
-
-> <!-- .element style="font-size: 80%;" --> CSS has a number of deficiencies: no namespacing, dependency management, code isolation, or robust dead code elimination. It also has confusing cascading behavior and no way to share logic or constants with front-end code. We've created various hacks and alternative languages to resolve these issues, but the best solution has been right under our noses: JavaScript. By using JavaScript and its ecosystem, the require() module system gives us namespacing and dependency management, existing tools like UglifyJS can eliminate dead code, the confusing cascading behavior of CSS can be bypassed completely, and shared logic and constants can be written in one place. Take it a step further and we can polyfill CSS features, calculate critical path styles, and perform other mad science.
 
 
 
@@ -211,15 +191,6 @@ Note:
 
 
 
-### Pebble Timeline - A Web API For Your Wrist
-* Charlie McConnell
-* Summary By: [YOUR NAME HERE]
-
-
->Where is my train? When is my next talk? Is now a good time to use the restroom? Pebble is a device intended to give you constant access to the tools and data that matter most without having to dig out your phone. In this talk we will show off how easy it is to start programming data driven applications for Pebble with just a few lines of JS.
-
-
-
 ### Cold War
 * [Simon Swain](http://twitter.com/simon_swain)
 * Summary By: Michael Barrett
@@ -230,42 +201,13 @@ Note:
 
 
 
-### Introducing Mixed Mode
-* Michael O'Brien
-* Summary By: [YOUR NAME HERE]
+### Tungsten.js: Virtual DOM + Server Rendering in a Legacy Codebase
+* Andrew Rota
+* Summary By: Nate Mielnik
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-B.md)
 
 
->This talk will introduce the idea of working with both Dom + GL in a single co-ordinate system.
-
-
-
-### Parallelism experiments in JavaScript
-* [Naveed Ihsanullah](http://twitter.com/naveedi)
-* Summary By: Noah Chase
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)
-
-
-> <!-- .element style="font-size: 80%;" --> With the amazing performance of modern single threaded JavaScript how can we catch up in parallelism? Today’s hardware provides specialized instructions that can operate on data in parallel and provides multiple execution units that can run code in parallel. The single threaded nature of classic JavaScript cannot take advantage of these resources. When quad-core smartphones are already available today that leaves a lot of performance potential on the table. I will share work we are doing to extend JavaScript with flexible and powerful primitives for parallelism that will unlock new performance opportunities to the Web. Let’s explore how native code concepts like shared memory and execution synchronization could work in JavaScript. With great power comes great responsibility so I will touch on some mitigation strategies we have in place to make sure tomorrow’s web applications stay well behaved as they use all the horsepower your hardware can provide.
-
-
-
-### Amazing Things One Can Do With JS and the NES
-* [Michael Matuzak](http://twitter.com/mmatuzak)
-* Summary By: [YOUR NAME HERE]
-
-
->Have you ever wanted to make those 8-bit sounding tunes from your childhood? What better way to do it than using the actual hardware to get that classic sound? Oh wait. I have to learn some archaic assembler? Not anymore! Now make those classic sounds from your childhood with JavaScript. This talk will go over the basics of how sound works on the NES, and how we can use JavaScript to make music on the NES.
-
-
-
-### Polymer: The future of Web Components
-* Chris Lorenzo
-* Summary By: Noah Chase
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/10-B.md)
-
-
->What are web components and why you should be using them. Find out how to get started and how Comcast is using Polymer for customer facing applications.
-
+> Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
 
 
 # DONE

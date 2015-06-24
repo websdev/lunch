@@ -3,21 +3,14 @@
 
 
 
-### Re-examining recipe search--a dash of sugar, just a smidgen of graph database
-* [Tracy Hinds](http://twitter.com/hackygolucky)
-* Summary By: [YOUR NAME HERE]
+### Headless Testing Against Real Web Browsers
+* Mike Ball
+* Summary By: Noah Chase
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/02-B.md)
 
 
-> <!-- .element style="font-size: 80%;" --> I’m starvin’. I throw open my laptop, and search by what I've got in the house to minimize me running to the store. I'm craving a flavor, not necessarily a cuisine. Some southern food has its origins in West African food. How do recipe searches address this? How do we combine curation of good recipe content with better search to avoid having to build a recommendation engine? In this talk, we’ll take a look at the current state of web recipe discovery and how I naively tried to come up with an alternative with brute JavaScript force and graph-databasing; like baking a souffle for a dinner party and doing a no-fall dance before it comes out of the oven. Plan for the worst and be delighted when it doesn’t happen(or chuckle when it does)!
+> <!-- .element style="font-size: 80%;" -->  Continuous integration ensures software's health with each each codebase change, ideally via automated tests and other quality-assurance processes. Tools like Phantomjs offer a great path towards headless JavaScript testing, but what about those scenarios where the software under test requires an actual GUI web browser? Think NW.js, Flash, and Google Polymer web-component-tester. X Virtual Frame Buffer provides an excellent solution towards lightweight, headless testing against real web browsers. In this talk, I'll offer some background on X Virtual Frame Buffer, and demo how to test a Google Polymer web component on a lightweight Ubuntu VM in continuous integration.
 
-
-### Organizational Design for Open Source
-* Jory Burson
-* Summary By: [YOUR NAME HERE]
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/11-B.md)
-
-
-> Lessons from the intersections of organizational design, human psychology, and business in order to better organize ourselves, our projects, and our communities.
 
 
 ### Recreating a dialup modem in javascript
@@ -29,13 +22,14 @@
 > Pshhhkkkkkkrrrr​kakingkakingkakingtsh​chchchchchchchcch​dingdingding The siren song of the dialup modem that summoned AIM and the Book of Mozilla has a language unto itself. In this talk, we’ll learn how to implement an end-to-end frequency-shift keying modem, capable of sending and receiving data between computers using the Web Audio API. By using a browser, I’ll provide an interactive session detailing how we can use javascript to encode and decode what modem tones really mean.
 
 
-### Tungsten.js: Virtual DOM + Server Rendering in a Legacy Codebase
-* Andrew Rota
-* Summary By: Nate Mielnik
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-B.md)
+
+### Parallelism experiments in JavaScript
+* [Naveed Ihsanullah](http://twitter.com/naveedi)
+* Summary By: Noah Chase
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)
 
 
-> Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
+> <!-- .element style="font-size: 80%;" --> With the amazing performance of modern single threaded JavaScript how can we catch up in parallelism? Today’s hardware provides specialized instructions that can operate on data in parallel and provides multiple execution units that can run code in parallel. The single threaded nature of classic JavaScript cannot take advantage of these resources. When quad-core smartphones are already available today that leaves a lot of performance potential on the table. I will share work we are doing to extend JavaScript with flexible and powerful primitives for parallelism that will unlock new performance opportunities to the Web. Let’s explore how native code concepts like shared memory and execution synchronization could work in JavaScript. With great power comes great responsibility so I will touch on some mitigation strategies we have in place to make sure tomorrow’s web applications stay well behaved as they use all the horsepower your hardware can provide.
 
 
 
@@ -46,16 +40,6 @@
 
 
 > <!-- .element style="font-size: 80%;" --> When you weren't looking, someone stuck a synthesizer into your favorite web browser. The Web Audio API is widely supported and makes it easy—and more importantly, fun—to create, process, and control audio in the browser. We can spin up oscillators, adjust gain, tweak frequencies, and slap on some funky delay. Additionally, we can also take existing sounds and manipulate them to our heart's content. We can grab input from cameras and microphones and use them as we see fit. But, the fun doesn't stop there—we still have the rest of the browser's media APIs at our disposal. We'll talk a little bit about the Web Audio API. We'll explore the browser as a vehicle for creative expression. We'll fire up some audio contexts and connect some nodes. We'll also leverage the getUserMedia Web API, WebSockets, and others to build unique musical instruments that could only be possible in the web browser. We'll not only talk about the API itself, but also some of the fundamental concepts for working with audio and making music.
-
-
-
-### The Hybrid Backbone & React App
-* [Peter Piekarczyk](http://www.twitter.com/peterpme)
-* Summary By: [YOUR NAME HERE]
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/13-B.md)
-
-
-> Have a large Backbone application that you'd like to try React on with the hopes of moving away from Backbone in the future? I'll guide you through some of the options and techniques you can do so without going crazy.
 
 
 
@@ -117,15 +101,6 @@
 
 
 
-### JavaScript Transformation
-* [Sebastian McKenzie](http://www.twitter.com/sebmck)
-* Summary By: [YOUR NAME HERE]
-
-
-> <!-- .element stye="font-size: 80%;" --> I made the open source project Babel and will be presenting on how JavaScript transformation and ES6 can help improve developer workflow and how it can futureproof their code. Not only transpilation to ES6 but how Babel has support for Flow, JSX and React so it can be integrated into many workflows extremely nicely. There are many challenges associated with transforming JavaScript as well as AST manipulation that I think would be extremely beneficial for the average developer to know about. There's even crazy stuff like transpiling proxies/Object.observe which wraps every single expression in a method.
-
-
-
 ### Zombies and Soup: Why End-to-End testing sucks (and why it doesn't have to)
 * [Dave Cadwallader](http://www.twitter.com/geek_dave)
 * Summary By: Erin DeThorne
@@ -136,22 +111,13 @@
 
 
 
-### 30 Minutes or Less: The Magic of Automated Accessibility Testing
-* [Marcy Sutton](http://www.twitter.com/marcysutton)
-* Summary By: [YOUR NAME HERE]
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/18-A.md)
+### Polymer: The future of Web Components
+* Chris Lorenzo
+* Summary By: Noah Chase
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/10-B.md)
 
 
-> In the amount of time it would take to have a pizza delivered, I'll teach you about accessibility through JavaScript testing. By using a pragmatic approach to software quality, we can create a more inclusive Web. Take it from someone who has broken high-profile builds: you can win by automating tests for common accessibility problems and catching them before they are deployed out into the world.
-
-
-
-### Nemo. The natural nodejs automation solution
-* Matt Edelman
-* Summary By: [YOUR NAME HERE]
-
-
-> Introducing NemoJS (http://nemo.js.org, https://github.com/paypal/nemo), a test and task runner agnostic selenium wrapper - with confit (https://github.com/krakenjs/confit) for configuration and a plugin architecture for precise customization and modularity.
+>What are web components and why you should be using them. Find out how to get started and how Comcast is using Polymer for customer facing applications.
 
 
 
