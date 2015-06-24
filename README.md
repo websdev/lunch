@@ -51,8 +51,8 @@ Fri May 22 | Douglas Adams's Hyperland                         | 50 min  | [Link
 Wed May 27 | The Soul of Software                              | 45 min  | [Link](http://devblog.avdi.org/2015/05/21/the-soul-of-software/)
 Fri Jun 05 | Building Better UIs                               | 60 min  | [Link](resources/2015-06-05)
 Mon Jun 15 | Semantic Version - My Knowledge v0.1.0            | 60 min  | [Link](https://github.com/nmielnik/notes/blob/master/semver-talk-06-15-2015/README.md)
-Wed Jun 24 | JSConf - Lightning Talk Style (Part 1)            | 60 min  | [Link](http://2015.jsconf.us/schedule.html)
-Mon Jun 29 | JSConf - Lightning Talk Style (Part 2)            | 60 min  | [Link](http://2015.jsconf.us/schedule.html)
+Wed Jun 24 | JSConf - Lightning Talk Style (Part 1)            | 60 min  | [Link](resources/2015-06-24)
+Mon Jun 29 | JSConf - Lightning Talk Style (Part 2)            | 60 min  | [Link](resources/2015-06-29)
 
 ## Rules
 
