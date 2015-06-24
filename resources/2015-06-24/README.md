@@ -71,13 +71,45 @@ ClosureRegistry = (function () {
 
 
 
-### JavaScript CSS
+## JavaScript CSS
 * [Parsha Pourkhomami](http://twitter.com/parshap)
 * Summary By: Nate Mielnik
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/05-A.md)
 
+> This talk is about ideas, not code.
 
-> <!-- .element style="font-size: 80%;" --> CSS has a number of deficiencies: no namespacing, dependency management, code isolation, or robust dead code elimination. It also has confusing cascading behavior and no way to share logic or constants with front-end code. We've created various hacks and alternative languages to resolve these issues, but the best solution has been right under our noses: JavaScript. By using JavaScript and its ecosystem, the require() module system gives us namespacing and dependency management, existing tools like UglifyJS can eliminate dead code, the confusing cascading behavior of CSS can be bypassed completely, and shared logic and constants can be written in one place. Take it a step further and we can polyfill CSS features, calculate critical path styles, and perform other mad science.
+
+### CSS has limitations.
+
+* No constants or variables
+* No way to extend the language
+* No dependency management (or really bad e.g. `@import`)
+* No code sharing or re-use
+* No interoperability with JS
+* Sometimes these limitations are good, sometimes (especially in large-scale apps)
+  they...aren't so good
+* People have worked around these limitations by creating CSS preprocessors. (ambiguous syntax, weird semantics)
+
+
+### Can we use JS to do CSS better?
+
+
+### You CAN represent CSS via JS, but why?
+
+* Better Variables
+* Arithmetic that works
+* Modules - `require` for CSS, because it's actually JS
+* Code Reuse:
+  * Share contants without changing values to match everywhere - if your app is in JS, this increases reuse quite a bit.
+  * 'mixins'
+* Take advantage of NPM - re-use some style modules (or publish some of your own)
+* Unlocks JS tooling to be re-purposed for building up styles.
+
+
+### Other Thoughts
+
+* This could mean doing all inline styles and not classes (React)
+* This seems like a great alternative to Shadow DOM
 
 
 
