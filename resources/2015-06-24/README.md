@@ -249,4 +249,14 @@ Note:
 > Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
 
 
+
+### Communicate All the Things... With WebRTC!
+* Kyle Tyacke
+* Summary By: Pat Hayes
+* [Notes](https://github.com/PatrickHayes/talks/blob/master/2015/jsconf/WebRTC.md)
+
+
+> WebRTC provides real-time peer-to-peer communications for browsers and mobile apps.
+
+
 # DONE
