@@ -3,13 +3,71 @@
 
 
 
-### You Won’t Believe This One Weird Way to Rewrite Closures
+## You Won’t Believe This One Weird Way to Rewrite Closures
 * [Jonathan Martin](http://www.twitter.com/nybblr)
 * Summary By: Nate Mielnik
 * [Notes](https://github.com/nmielnik/talks/blob/master/2015/jsconf/04-B.md)
 
 
->Closures are undoubtedly the most powerful feature JavaScript inherited from its Lisp forbears. But would JS be so powerful… without them? We’ll reimplement closures entirely from scratch without the convenience of native local variables or function parameters. Entirely in JavaScript. Using prototypal inheritance, some clever hat-tips from graphics programming, amnesic function bodies, and this one weird global variable.
+## Do these 5 things every line:
+* No function params, var, variable assignment
+  * params are really just local variables
+* No memoization
+  * no attaching data to functions
+* One global variable is allowed
+* Amnesic function bodies allowed
+  * don't remember anything about their scope (buckets of statements)
+* shortcut local variables allowed
+
+
+## ClosureRegistry
+
+```javascript
+ClosureRegistry = (function () {
+
+  function ClosureRegistry() {
+    this._closure = {};
+    this._registry - [];
+  }
+
+  delegate(['push', 'pop'], { // adds methods to a prototye (from) that just delegate to another place (closure)
+    from: ClosureRegistry.prototype,
+    to: function () { return this._registry; }
+  });
+
+  delegate(['get', 'set', 'args'], {
+    from: ClosureRegistry.prototype
+    to: function () { return this.scopeForCurrentClosure(); }
+  });
+
+  Scope.prototype.push = function () {
+    this._dict = this._forkDict();
+  };
+
+  Scope.prototype.pop = function () {
+    this._dict = this._dict.__parent;
+  };
+
+  ClosureRegistry.prototype.scopeForCurrentClosure = function () {
+    this._registry[this._registry.length - 1];
+  };
+
+  ClosureRegistry.prototpye.func = function (name, params, body /* function body */) {
+    var _this = this;
+    var scope = this.scopeForCurrentClosure().fork();
+    this.set(name, function() {
+      _this.push();
+      _this.args(params, arguments);
+      var result = body();
+      _this.pop();
+      return result;
+    });
+  };
+
+  return ClosureRegistry;
+}());
+```
+
 
 
 
