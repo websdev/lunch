@@ -190,6 +190,45 @@ Note:
 > <!-- .element style="font-size: 80%;" --> Wouldn't it be cool if you could "print out" your own javascript generated bitmap art as a knitted scarf ? Well, you can ! Knitting textiles is a lot like programing computers. You write your knit pattern (code), your brain compiles it, and your hands render knit stitches (1s) and purl stitches (0s). It means you can decipher knitting nomenclature like "k2, m1L, k1, m1L, k until 3 sts remain, m1R, k1, m1R, k2" into JavaScript. This talk will cover how you can program knitting patterns in JavaScript and then use an electronic knitting machine from the 1980's to make beautiful knitted textiles.
 
 
+> ![](http://new.tinygrab.com/5db8dc9625bdb123e2a5db83910f71cb132a5d6b3b.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc96257775ed2b869ca08247d1d50c690e200b.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc9625536d2ac85985460fc9d2e61e7901178f.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc962575817ee255332e44b98e2eb4b505e337.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc9625d7e30a7e24f78a5d8e658985bf766489.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc96252acf2df5a2343d9b57a29790056a19bd.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc96257602c0adb4da0071d87458b4c69b706c.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc96259ea1fdcfb38cf698d329532516718307.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc9625919d2870ea7bd29f5f1a86fd775ce5d5.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc96258271e2314592e9d68648b53548255edc.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc9625f410a99f27608eb336df88bdd452c569.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc96252b081bf9776f879c4ad4dacb4e0378a8.png)
+
+
+> ![](http://new.tinygrab.com/5db8dc9625439336a39652124eb9779dd807b535ed.png)
+
+
 
 ### Cold War
 * [Simon Swain](http://twitter.com/simon_swain)
