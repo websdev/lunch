@@ -160,6 +160,7 @@ Note:
 >In this talk we will explore signal processing, specifically how our brain interprets sound. We will explore some of the basic theory behind how music is digitally encoded and look back at some of the history and science behind the western musical cannon.
 
 
+<<<<<<< HEAD
 > Sampling is the taking of analog information and converting it to digital information.
 
 > ![](https://upload.wikimedia.org/wikipedia/commons/5/50/Signal_Sampling.png)
@@ -194,6 +195,8 @@ Note:
 > Musical Notes have existed as a form of communication for longer then the English Language
 
 
+=======
+>>>>>>> bee092601f9eea563acbed6f5db942111168b2a9
 
 ### (math == art && art == code)
 * [John Brown](http://twitter.com/thisisjohnbrown)
@@ -202,6 +205,23 @@ Note:
 
 
 > <!-- .element style="font-size: 80%;" --> The formula for a Bezier curve is beautiful. Using sine and cosine to create orbiting objects is dazzling. L-systems create fractals through elegant simplicity. Developers, as a group, may be losing site of the beauty that code can create. Designers by the bunch are picking up a keyboard and creating amazing pieces, but it's happening the other way very slowly. That's a shame, because the computer lets otherwise unexpressed ideas go unexplored. Developers have the ability to embrace the art of programming and the art of art because of the myriad frameworks available. Use the language of your choice to make some art, whether it’s in the browser or in the physical realm. Walk away with the confidence and the inspiration to put down the work for a minute and pick up a digital paintbrush.
+
+
+[Avatar Glitch](https://twitter.com/avatarglitch)
+## Things Learned:
+- how JPGs are constructed (for decent-looking generative glitch art)
+- how to make animated gifs, buffers
+
+
+[Plinco](https://twitter.com/plinco)
+## Things Learned:
+- hardware things, software things
+- projection mapping
+
+
+100 Days of N Divs
+http://codepen.io/ThisIsJohnBrown/pen/MYNyVm/
+See all of them on twitter - [John Brown](http://twitter.com/thisisjohnbrown)
 
 
 
@@ -282,6 +302,16 @@ Note:
 
 
 > Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
+
+
+
+### Communicate All the Things... With WebRTC!
+* Kyle Tyacke
+* Summary By: Pat Hayes
+* [Notes](https://github.com/PatrickHayes/talks/blob/master/2015/jsconf/WebRTC.md)
+
+
+> WebRTC provides real-time peer-to-peer communications for browsers and mobile apps.
 
 
 # DONE
