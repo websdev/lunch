@@ -160,7 +160,6 @@ Note:
 >In this talk we will explore signal processing, specifically how our brain interprets sound. We will explore some of the basic theory behind how music is digitally encoded and look back at some of the history and science behind the western musical cannon.
 
 
-<<<<<<< HEAD
 > Sampling is the taking of analog information and converting it to digital information.
 
 > ![](https://upload.wikimedia.org/wikipedia/commons/5/50/Signal_Sampling.png)
@@ -195,8 +194,6 @@ Note:
 > Musical Notes have existed as a form of communication for longer then the English Language
 
 
-=======
->>>>>>> bee092601f9eea563acbed6f5db942111168b2a9
 
 ### (math == art && art == code)
 * [John Brown](http://twitter.com/thisisjohnbrown)
