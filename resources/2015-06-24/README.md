@@ -165,30 +165,22 @@ Note:
 > ![](https://upload.wikimedia.org/wikipedia/commons/5/50/Signal_Sampling.png)
 
 
-> Started with MSX/MSP
+> Started with MAX/MSP
 
 >![](http://farm3.staticflickr.com/2461/3772235957_ed2c5d6267_z.jpg?zz=1)
 
 
-> Sample Rate: Number of Samples taken per second
-
-> Bit Depth: Number of bits used to encode sample data
-
-> Codec: The algorithm used to encode the data
-
-
-> Lossy: Throws out data, usually the frequencies humans can't hear
-
-> Lossless: Retains all data
-
-> Similar to PNG vs JPG
+##Some Terminology
+- Sample Rate: Number of Samples taken per second
+- Bit Depth: Number of bits used to encode sample data
+- Codec: The algorithm used to encode the data
+- Lossy: Throws out data, usually the frequencies humans can't hear
+- Lossless: Retains all data
 
 
-> Limitations of Sampling:
-
-> NyQuist Limit: Sample rate dictates the maximum frequency in a system
-
-> Human ear hears upto 20KHZ - Telephones use 8KHZ
+##Limitations of Sampling:
+- NyQuist Limit: Sample rate dictates the maximum frequency in a system
+- Human ear hears upto 20KHZ - Telephones use 8KHZ
 
 
 > Musical Notes have existed as a form of communication for longer then the English Language
