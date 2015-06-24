@@ -160,6 +160,41 @@ Note:
 >In this talk we will explore signal processing, specifically how our brain interprets sound. We will explore some of the basic theory behind how music is digitally encoded and look back at some of the history and science behind the western musical cannon.
 
 
+> Sampling is the taking of analog information and converting it to digital information.
+
+> ![](https://upload.wikimedia.org/wikipedia/commons/5/50/Signal_Sampling.png)
+
+
+> Started with MSX/MSP
+
+>![](http://farm3.staticflickr.com/2461/3772235957_ed2c5d6267_z.jpg?zz=1)
+
+
+> Sample Rate: Number of Samples taken per second
+
+> Bit Depth: Number of bits used to encode sample data
+
+> Codec: The algorithm used to encode the data
+
+
+> Lossy: Throws out data, usually the frequencies humans can't hear
+
+> Lossless: Retains all data
+
+> Similar to PNG vs JPG
+
+
+> Limitations of Sampling:
+
+> NyQuist Limit: Sample rate dictates the maximum frequency in a system
+
+> Human ear hears upto 20KHZ - Telephones use 8KHZ
+
+
+> Musical Notes have existed as a form of communication for longer then the English Language
+
+
+
 ### (math == art && art == code)
 * [John Brown](http://twitter.com/thisisjohnbrown)
 * Summary By: Gal Shenar
