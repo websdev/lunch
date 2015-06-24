@@ -43,12 +43,13 @@
 > Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
 
 
-### If you wish to learn ES6/2015 from scratch, you must first invent the universe
-* [Ashley Williams](http://www.twitter.com/ag_dubs)
-* Summary By: Gal Shenar 
+### Polymer: The future of Web Components
+* Chris Lorenzo
+* Summary By: Noah Chase
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/10-B.md)
 
 
-> <!-- .element style="font-size: 70%" --> Javascript has always been a language with very little syntactic sugar—for better or worse. With ES6/2015, and future iterations,though, Javascript is gaining a more and more abstract and expressive syntax. To some it might appear that our language—which already seems accessible and approachable for beginners— is becoming even more accessible and approachable. However, both the humanities and CS education research have proven that abstraction, while a powerful tool for knowledgeable practitioners, can be an equally powerful foil for beginners. As we enter the era of language-level abstractions in ES6/2015, we are charged with the task of rethinking how we teach JavaScript. Through an interdisciplinary montage I will identify the problem of teaching abstraction as a ubiquitous demand across nearly every domain, and align the issues of creativity and critical thinking in the humanities with issues in computer science. The talk will conclude with a discussion of how the discipline of computer science and that of the humanities can inform each other to produce more effective and creative solutions to both developing and teaching abstractions.
+>What are web components and why you should be using them. Find out how to get started and how Comcast is using Polymer for customer facing applications.
 
 
 
@@ -62,13 +63,13 @@
 
 
 
-### Zombies and Soup: Why End-to-End testing sucks (and why it doesn't have to)
-* [Dave Cadwallader](http://www.twitter.com/geek_dave)
-* Summary By: Erin DeThorne
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/17-B.md)
+### Parallelism experiments in JavaScript
+* [Naveed Ihsanullah](http://twitter.com/naveedi)
+* Summary By: Noah Chase
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)
 
 
-> At WalmartLabs, we like to automate-away all our boring and tedious work, so we can focus on the fun stuff. But automated cross-browser end-to-end testing is really really hard to get right. We'll show you how we did it, and unveil some open source tools we're releasing to help with your zombie apocalypse, too.
+> <!-- .element style="font-size: 80%;" --> With the amazing performance of modern single threaded JavaScript how can we catch up in parallelism? Today’s hardware provides specialized instructions that can operate on data in parallel and provides multiple execution units that can run code in parallel. The single threaded nature of classic JavaScript cannot take advantage of these resources. When quad-core smartphones are already available today that leaves a lot of performance potential on the table. I will share work we are doing to extend JavaScript with flexible and powerful primitives for parallelism that will unlock new performance opportunities to the Web. Let’s explore how native code concepts like shared memory and execution synchronization could work in JavaScript. With great power comes great responsibility so I will touch on some mitigation strategies we have in place to make sure tomorrow’s web applications stay well behaved as they use all the horsepower your hardware can provide.
 
 
 
@@ -79,3 +80,7 @@
 
 
 > <!-- .element style="font-size: 80%" --> What actually happens when your code is run? Our programs are simple text documents composed of patterns of rules, but the processes they guide aren't nearly as well behaved. Function scopes are generated, data is plumbed through pathways, bits are shifted and applications are evaluated. There's a lot of ins, a lot of outs. It's a very complicated case. We can gain some insight into the process with console.log and step-through debuggers, but we're left to develop a full program simulation in our minds based only on the code we wrote and the tiny snapshots our debugger gives us -- effectively requiring a JS interpreter to be compiled into our wetware. This can make it somewhat challenging to reason about our work. We'll look at some ways of remedying this, starting with basic data structures and tiptoeing toward full programs. Your code is the DNA for a process: let's build an illustrated anatomy guide.
+
+
+
+# DONE
