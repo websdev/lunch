@@ -105,53 +105,6 @@
 
 
 
-### Visualizing process evolution
-* [Dann Toliver](http://www.twitter.com/dann)
-* Summary By: Thomas Gideon
-* [Notes](https://github.com/nchase/talks/commit/6c44c1339d9868e58880930d803145d7c74c95a7)
-
-
-> <!-- .element style="font-size: 80%" --> What actually happens when your code is run? Our programs are simple text documents composed of patterns of rules, but the processes they guide aren't nearly as well behaved. Function scopes are generated, data is plumbed through pathways, bits are shifted and applications are evaluated. There's a lot of ins, a lot of outs. It's a very complicated case. We can gain some insight into the process with console.log and step-through debuggers, but we're left to develop a full program simulation in our minds based only on the code we wrote and the tiny snapshots our debugger gives us -- effectively requiring a JS interpreter to be compiled into our wetware. This can make it somewhat challenging to reason about our work. We'll look at some ways of remedying this, starting with basic data structures and tiptoeing toward full programs. Your code is the DNA for a process: let's build an illustrated anatomy guide.
-
-
-
-### Tungsten.js: Virtual DOM + Server Rendering in a Legacy Codebase
-* Andrew Rota
-* Summary By: Nate Mielnik
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-B.md)
-
-
-> Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
-
-
-### If you wish to learn ES6/2015 from scratch, you must first invent the universe
-* [Ashley Williams](http://www.twitter.com/ag_dubs)
-* Summary By: Gal Shenar 
-
-
-> <!-- .element style="font-size: 70%" --> Javascript has always been a language with very little syntactic sugar—for better or worse. With ES6/2015, and future iterations,though, Javascript is gaining a more and more abstract and expressive syntax. To some it might appear that our language—which already seems accessible and approachable for beginners— is becoming even more accessible and approachable. However, both the humanities and CS education research have proven that abstraction, while a powerful tool for knowledgeable practitioners, can be an equally powerful foil for beginners. As we enter the era of language-level abstractions in ES6/2015, we are charged with the task of rethinking how we teach JavaScript. Through an interdisciplinary montage I will identify the problem of teaching abstraction as a ubiquitous demand across nearly every domain, and align the issues of creativity and critical thinking in the humanities with issues in computer science. The talk will conclude with a discussion of how the discipline of computer science and that of the humanities can inform each other to produce more effective and creative solutions to both developing and teaching abstractions.
-
-
-
-### Drawing Hands: Built-ins written in JavaScript
-* [JOHN-DAVID DALTON](http://www.twitter.com/jdalton)
-* Summary By: Patrick Cavanaugh
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/16-B.md)
-
-
-> Learn about how browsers/engines leverage JavaScript to implement built-in APIs. Knowing @jdalton there's likely going to be some performance bits too.
-
-
-
-### Zombies and Soup: Why End-to-End testing sucks (and why it doesn't have to)
-* [Dave Cadwallader](http://www.twitter.com/geek_dave)
-* Summary By: Erin DeThorne
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/17-B.md)
-
-
-> At WalmartLabs, we like to automate-away all our boring and tedious work, so we can focus on the fun stuff. But automated cross-browser end-to-end testing is really really hard to get right. We'll show you how we did it, and unveil some open source tools we're releasing to help with your zombie apocalypse, too.
-
-
 
 ### Polymer: The future of Web Components
 * Chris Lorenzo
