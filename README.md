@@ -52,9 +52,10 @@ Wed May 27 | The Soul of Software                              | 45 min  | [Link
 Fri Jun 05 | Building Better UIs                               | 60 min  | [Link](resources/2015-06-05)
 Mon Jun 15 | Semantic Version - My Knowledge v0.1.0            | 60 min  | [Link](https://github.com/nmielnik/notes/blob/master/semver-talk-06-15-2015/README.md)
 Mon Jun 22 | Jeremy Ashkenas: Rise of the Transpilers          | 45 min  | [Link](https://github.com/nmielnik/notes/blob/master/resources/2015-06-22/README.md)
-Wed Jun 24 | JSConf - Lightning Talk Style (Part 1)            | 60 min  | [Link](resources/2015-06-24)
-Mon Jun 29 | JSConf - Lightning Talk Style (Part 2)            | 60 min  | [Link](resources/2015-06-29)
+Wed Jun 24 | JSConf - Lightning Talk Style (Part 1)            | 60 min  | [Slides](resources/2015-06-24)
+Mon Jun 29 | JSConf - Lightning Talk Style (Part 2)            | 45 min  | [Slides](resources/2015-06-29)
 Wed Jul 1  | code is a job                                     | 30 min  | [Slides](https://speakerdeck.com/garann/code-is-a-job)
+Mon Jul 6  | JSConf - Lightning Talk Style (Part 3)            | 45 min  | [Slides](resources/2016-07-06)
 
 
 ## Rules

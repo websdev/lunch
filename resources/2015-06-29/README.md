@@ -65,13 +65,13 @@
 
 
 
-### Parallelism experiments in JavaScript
-* [Naveed Ihsanullah](http://twitter.com/naveedi)
-* Summary By: Noah Chase
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)
+### Zombies and Soup: Why End-to-End testing sucks (and why it doesn't have to)
+* [Dave Cadwallader](http://www.twitter.com/geek_dave)
+* Summary By: Erin DeThorne
+* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/17-B.md)
 
 
-> <!-- .element style="font-size: 80%;" --> With the amazing performance of modern single threaded JavaScript how can we catch up in parallelism? Today’s hardware provides specialized instructions that can operate on data in parallel and provides multiple execution units that can run code in parallel. The single threaded nature of classic JavaScript cannot take advantage of these resources. When quad-core smartphones are already available today that leaves a lot of performance potential on the table. I will share work we are doing to extend JavaScript with flexible and powerful primitives for parallelism that will unlock new performance opportunities to the Web. Let’s explore how native code concepts like shared memory and execution synchronization could work in JavaScript. With great power comes great responsibility so I will touch on some mitigation strategies we have in place to make sure tomorrow’s web applications stay well behaved as they use all the horsepower your hardware can provide.
+> At WalmartLabs, we like to automate-away all our boring and tedious work, so we can focus on the fun stuff. But automated cross-browser end-to-end testing is really really hard to get right. We'll show you how we did it, and unveil some open source tools we're releasing to help with your zombie apocalypse, too.
 
 
 
@@ -105,25 +105,6 @@
 
 
 
-### Visualizing process evolution
-* [Dann Toliver](http://www.twitter.com/dann)
-* Summary By: Thomas Gideon
-* [Notes](https://github.com/nchase/talks/commit/6c44c1339d9868e58880930d803145d7c74c95a7)
-
-
-> <!-- .element style="font-size: 80%" --> What actually happens when your code is run? Our programs are simple text documents composed of patterns of rules, but the processes they guide aren't nearly as well behaved. Function scopes are generated, data is plumbed through pathways, bits are shifted and applications are evaluated. There's a lot of ins, a lot of outs. It's a very complicated case. We can gain some insight into the process with console.log and step-through debuggers, but we're left to develop a full program simulation in our minds based only on the code we wrote and the tiny snapshots our debugger gives us -- effectively requiring a JS interpreter to be compiled into our wetware. This can make it somewhat challenging to reason about our work. We'll look at some ways of remedying this, starting with basic data structures and tiptoeing toward full programs. Your code is the DNA for a process: let's build an illustrated anatomy guide.
-
-
-
-### Tungsten.js: Virtual DOM + Server Rendering in a Legacy Codebase
-* Andrew Rota
-* Summary By: Nate Mielnik
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-B.md)
-
-
-> Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
-
-
 ### If you wish to learn ES6/2015 from scratch, you must first invent the universe
 * [Ashley Williams](http://www.twitter.com/ag_dubs)
 * Summary By: Gal Shenar 
@@ -133,32 +114,4 @@
 
 
 
-### Drawing Hands: Built-ins written in JavaScript
-* [JOHN-DAVID DALTON](http://www.twitter.com/jdalton)
-* Summary By: Patrick Cavanaugh
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/16-B.md)
-
-
-> Learn about how browsers/engines leverage JavaScript to implement built-in APIs. Knowing @jdalton there's likely going to be some performance bits too.
-
-
-
-### Zombies and Soup: Why End-to-End testing sucks (and why it doesn't have to)
-* [Dave Cadwallader](http://www.twitter.com/geek_dave)
-* Summary By: Erin DeThorne
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/17-B.md)
-
-
-> At WalmartLabs, we like to automate-away all our boring and tedious work, so we can focus on the fun stuff. But automated cross-browser end-to-end testing is really really hard to get right. We'll show you how we did it, and unveil some open source tools we're releasing to help with your zombie apocalypse, too.
-
-
-
-### Polymer: The future of Web Components
-* Chris Lorenzo
-* Summary By: Noah Chase
-* [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/10-B.md)
-
-
->What are web components and why you should be using them. Find out how to get started and how Comcast is using Polymer for customer facing applications.
-
-
+# DONE
