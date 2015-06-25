@@ -77,9 +77,38 @@
 * [Dann Toliver](http://www.twitter.com/dann)
 * Summary By: Thomas Gideon
 * [Notes](https://github.com/nchase/talks/commit/6c44c1339d9868e58880930d803145d7c74c95a7)
+* [Notes](https://github.com/commandline/talks/blob/master/jsconf2015/2015-05-29_viz_process_evolution.md)
 
 
-> <!-- .element style="font-size: 80%" --> What actually happens when your code is run? Our programs are simple text documents composed of patterns of rules, but the processes they guide aren't nearly as well behaved. Function scopes are generated, data is plumbed through pathways, bits are shifted and applications are evaluated. There's a lot of ins, a lot of outs. It's a very complicated case. We can gain some insight into the process with console.log and step-through debuggers, but we're left to develop a full program simulation in our minds based only on the code we wrote and the tiny snapshots our debugger gives us -- effectively requiring a JS interpreter to be compiled into our wetware. This can make it somewhat challenging to reason about our work. We'll look at some ways of remedying this, starting with basic data structures and tiptoeing toward full programs. Your code is the DNA for a process: let's build an illustrated anatomy guide.
+<img src="http://localhost:3000/resources/2015-07-06/evolution/dna.jpg" style="width: 100%, height: 100%" />
+
+
+<img src="http://localhost:3000/resources/2015-07-06/evolution/mandelbrot.png" style="width: 100%, height: 100%" />
+
+
+> "We can make observations without looking at code"
+
+
+Granularity
+* Good Spatial & Temporal
+* Not so much in the middle
+
+
+<img src="http://localhost:3000/resources/2015-07-06/evolution/8-bit.jpg" style="width: 100%, height: 100%" />
+
+
+Live Demo
+
+[Underview](http://bentodojo.com/underview/)
+
+available on [github](https://github.com/dxnn/underview)
+
+
+Why?
+
+* Reading code is slow
+* Interpreter in our head
+* Should be part of our dev tools
 
 
 
