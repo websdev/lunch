@@ -162,6 +162,7 @@ Note:
 
 
 ### Beyond Responsive: Building a mobile web you're f*ing proud of
+* [![](http://img.youtube.com/vi/Y4ZTRztwLrg/0.jpg)](https://www.youtube.com/watch?v=Y4ZTRztwLrg)
 * [Kate Hudson](http://twitter.com/k88hudson)
 * Summary By: Matthew Dantas-McCutcheon
 
@@ -171,6 +172,7 @@ Note:
 
 
 ### Making Relational Cool Again (or: JavaScript on ACID)
+* [![](http://img.youtube.com/vi/19Av0Lxml-I/0.jpg)](https://www.youtube.com/watch?v=19Av0Lxml-I)
 * [Tim Griesser](http://twitter.com/tgriesser)
 * Summary By: Matthew Halbe
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/03-A.md)
@@ -208,6 +210,7 @@ Note:
 
 
 ### Async Programming in ES7
+* [![](http://img.youtube.com/vi/lil4YCCXRYc/0.jpg)](https://www.youtube.com/watch?v=lil4YCCXRYc)
 * [Jafar Husain](http://twitter.com/Jhusain)
 * Summary By: Matthew Dantas-McCutcheon
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/04-A.md)
@@ -253,6 +256,7 @@ Note:
 
 
 ### (math == art && art == code)
+* [![](http://img.youtube.com/vi/Z1q71gFeRqM/0.jpg)](https://www.youtube.com/watch?v=Z1q71gFeRqM)
 * [John Brown](http://twitter.com/thisisjohnbrown)
 * Summary By: Gal Shenar
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/06-A.md)
@@ -291,6 +295,7 @@ See all of them on twitter - [John Brown](http://twitter.com/thisisjohnbrown)
 
 
 ### Knitting for Javascripters
+* [![](http://img.youtube.com/vi/X1Cc1vrvjdY/0.jpg)](https://www.youtube.com/watch?v=X1Cc1vrvjdY)
 * [Mariko Kosaka](http://twitter.com/kosamari)
 * Summary By: Erin DeThorne
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/07-A.md)

@@ -16,6 +16,7 @@
 
 
 ### Altering the real world with JavaScript
+* [![](http://img.youtube.com/vi/uQwM7VUgLK0/0.jpg)](https://www.youtube.com/watch?v=uQwM7VUgLK0)
 * [Jan Jongboom](http://www.twitter.com/janjongboom)
 * Summary By: Chris LaPointe
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/19-A.md)
@@ -64,6 +65,7 @@
 
 
 ### Parallelism experiments in JavaScript
+* [![](http://img.youtube.com/vi/h_M_uscOKJM/0.jpg)](https://www.youtube.com/watch?v=h_M_uscOKJM)
 * [Naveed Ihsanullah](http://twitter.com/naveedi)
 * Summary By: Noah Chase
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)
@@ -74,6 +76,7 @@
 
 
 ### Visualizing process evolution
+* [![](http://img.youtube.com/vi/QPCXsG_iMlc/0.jpg)](https://www.youtube.com/watch?v=QPCXsG_iMlc)
 * [Dann Toliver](http://www.twitter.com/dann)
 * Summary By: Thomas Gideon
 * [Notes](https://github.com/nchase/talks/commit/6c44c1339d9868e58880930d803145d7c74c95a7)
