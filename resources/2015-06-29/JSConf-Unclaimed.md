@@ -1,4 +1,5 @@
 ### Accessibility and JS: side-by-side
+* [![](http://img.youtube.com/vi/1CZZfDe8ocU/0.jpg)](https://www.youtube.com/watch?v=1CZZfDe8ocU)
 * [Felipe de Albuquerque](https://twitter.com/felipedeolinda)
 * Summary By: [YOUR NAME HERE]
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/01-A.md)
@@ -9,6 +10,7 @@
 
 
 ### Re-examining recipe search--a dash of sugar, just a smidgen of graph database
+* [![](http://img.youtube.com/vi/IZONih1l4As/0.jpg)](https://www.youtube.com/watch?v=IZONih1l4As)
 * [Tracy Hinds](http://twitter.com/hackygolucky)
 * Summary By: [YOUR NAME HERE]
 
@@ -37,6 +39,7 @@
 
 
 ### JavaScript Transformation
+* [![](http://img.youtube.com/vi/rKuNbEwoQfQ/0.jpg)](https://www.youtube.com/watch?v=rKuNbEwoQfQ)
 * [Sebastian McKenzie](http://www.twitter.com/sebmck)
 * Summary By: [YOUR NAME HERE]
 
@@ -46,6 +49,7 @@
 
 
 ### 30 Minutes or Less: The Magic of Automated Accessibility Testing
+* [![](http://img.youtube.com/vi/-XUmf_RPF8k/0.jpg)](https://www.youtube.com/watch?v=-XUmf_RPF8k)
 * [Marcy Sutton](http://www.twitter.com/marcysutton)
 * Summary By: [YOUR NAME HERE]
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/18-A.md)
@@ -56,6 +60,7 @@
 
 
 ### Nemo. The natural nodejs automation solution
+* [![](http://img.youtube.com/vi/1DoveeFXptY/0.jpg)](https://www.youtube.com/watch?v=1DoveeFXptY)
 * Matt Edelman
 * Summary By: [YOUR NAME HERE]
 
@@ -84,6 +89,7 @@
 
 
 ### Amazing Things One Can Do With JS and the NES
+* [![](http://img.youtube.com/vi/NiOW-swy2Ys/0.jpg)](https://www.youtube.com/watch?v=NiOW-swy2Ys)
 * [Michael Matuzak](http://twitter.com/mmatuzak)
 * Summary By: [YOUR NAME HERE]
 

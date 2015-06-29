@@ -4,6 +4,7 @@
 
 
 ## JavaScript CSS
+* [![](http://img.youtube.com/vi/Bt7-cx5AOQc/0.jpg)](https://www.youtube.com/watch?v=Bt7-cx5AOQc)
 * [Parsha Pourkhomami](http://twitter.com/parshap)
 * Summary By: Nate Mielnik
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/05-A.md)
@@ -56,6 +57,7 @@
 
 
 ### Recreating a dialup modem in javascript
+* [![](http://img.youtube.com/vi/UKa20yPzGbU/0.jpg)](https://www.youtube.com/watch?v=UKa20yPzGbU)
 * [Sam Saccone](http://twitter.com/samccone)
 * Summary By: Ravi Singh
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-A.md)
@@ -205,6 +207,7 @@
 
 
 ### Building a musical instrument with the Web Audio API
+* [![](http://img.youtube.com/vi/56spBAgOYfg/0.jpg)](https://www.youtube.com/watch?v=56spBAgOYfg)
 * [Steve Kinney](http://twitter.com/stevekinney)
 * Summary By: Ravi Singh
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/13-A.md)
@@ -338,6 +341,7 @@ note.downOctave(); // A#3
 
 
 ### Maintaining a Local Dev Meetup
+* [![](http://img.youtube.com/vi/1pBxxuxvCjU/0.jpg)](https://www.youtube.com/watch?v=1pBxxuxvCjU)
 * [Jacob Roufa](http://twitter.com/jroufa)
 * Summary By: Noah Chase
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/14-A.md)
@@ -385,6 +389,7 @@ note.downOctave(); // A#3
 
 
 ### If you wish to learn ES6/2015 from scratch, you must first invent the universe
+* [![](http://img.youtube.com/vi/DN4yLZB1vUQ/0.jpg)](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 * [Ashley Williams](http://www.twitter.com/ag_dubs)
 * Summary By: Gal Shenar
 
