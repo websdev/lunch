@@ -362,7 +362,28 @@ note.downOctave(); // A#3
 * Summary By: Gal Shenar 
 
 
-> <!-- .element style="font-size: 70%" --> Javascript has always been a language with very little syntactic sugar—for better or worse. With ES6/2015, and future iterations,though, Javascript is gaining a more and more abstract and expressive syntax. To some it might appear that our language—which already seems accessible and approachable for beginners— is becoming even more accessible and approachable. However, both the humanities and CS education research have proven that abstraction, while a powerful tool for knowledgeable practitioners, can be an equally powerful foil for beginners. As we enter the era of language-level abstractions in ES6/2015, we are charged with the task of rethinking how we teach JavaScript. Through an interdisciplinary montage I will identify the problem of teaching abstraction as a ubiquitous demand across nearly every domain, and align the issues of creativity and critical thinking in the humanities with issues in computer science. The talk will conclude with a discussion of how the discipline of computer science and that of the humanities can inform each other to produce more effective and creative solutions to both developing and teaching abstractions.
+[Abstraction] tries to factor out details from a common pattern so that programmers can work close to the level of human thought, leaving out details which matter in practice, but are immaterial to the problem being solved. - Wikipedia
+
+
+## tl;dr
+
+* Abstraction: it's what programming is at it's most essential
+* Abstraction: beginners struggle with it
+* Abstraction: it will drive your culture and community
+* ES6 Classes: an abstraction, a problem
+* We should be teaching concepts not syntax
+* Syntax that obfuscates concepts is problematic
+* When we teach, we have to start at the beginning
+
+
+## It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring. -Carl Sagan
+
+
+Let's reconsider our ontology.
+
+Let's reconsider it early and often.
+
+Let's stay beginners.
 
 
 
