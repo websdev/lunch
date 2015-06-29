@@ -353,13 +353,40 @@ note.downOctave(); // A#3
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/14-B.md)
 
 
-> Whether you work on open source or are hiring developers to work with you, first impressions matter. The first day on with a project is both exciting and challenging for any developer. From missing documentation, unknown dependencies, complex codebases and install processes, it’s a wonder that most people don’t just quit on the spot. However, when a plan is in place and when things are handled correctly, the first day with a codebase can become one of the most motivating days for any developer.
+### Welcome to the Team
+- Setup computer
+  - Go to wiki, not updated in over a year, ask around, everyone did something different, process took week+
+- Think about the first time you pulled down code to work on
+- New employees update wiki, but have no context
+- Startup should check if all prereqs are met, nag users to update
+
+
+### First Impressions Matter
+- First day sets tone for perceived quality
+- Documentation in IMPORTANT
+- Use README for the entry point
+- Be friendly to contributers
+- Use whiteboard sessions to show mental model
+  - Doesn't matter if permanent, it will change
+
+
+### Code Comments
+- Comments should cover why, what can't be understood from code itself
+- Comment why ugly code is that way
+
+
+### Vagrant (Kind of a love story)
+- Allows a standardized virtual environment
+- Virtualize a mini version of production
+- Hide Vagrant where possible
+- ./configure does everything, but don't expect perfection
+  - Comment this like you would any code
 
 
 
 ### If you wish to learn ES6/2015 from scratch, you must first invent the universe
 * [Ashley Williams](http://www.twitter.com/ag_dubs)
-* Summary By: Gal Shenar 
+* Summary By: Gal Shenar
 
 
 [Abstraction] tries to factor out details from a common pattern so that programmers can work close to the level of human thought, leaving out details which matter in practice, but are immaterial to the problem being solved. - Wikipedia
