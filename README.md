@@ -111,6 +111,13 @@ PDFs can be generated from presentations with the `?print-pdf` query param.
 In presentations, [two line breaks](presentation.ejs#L19) will create a new vertical slide.
 [Three line breaks](presentation.ejs#L18) will create a new horizontal slide.
 
+## Keyboard Shortcuts
+
+While running the presentation framework, when viewing the slides from your browsers you can use these helpful keyboard shortcuts:
+
+* <kbd>s</kbd> ('s' key) -> Enters 'presenter' mode, which opens another window showing the current slide, any notes you've added (that shouldn't be displayed), a clock showing the time and how long you've been presenting, and a preview of the next slide
+* <kbd>ESC</kbd> | <kbd>o</kbd> (escape or 'o' key) -> Zooms out to a high level thumbnail view of all the slides
+
 ## Reading the Slides
 
 Often times markup-like code is added to the presentations to allow for things like slide "fragments".
