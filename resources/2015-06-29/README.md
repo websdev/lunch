@@ -74,6 +74,50 @@
 > At WalmartLabs, we like to automate-away all our boring and tedious work, so we can focus on the fun stuff. But automated cross-browser end-to-end testing is really really hard to get right. We'll show you how we did it, and unveil some open source tools we're releasing to help with your zombie apocalypse, too.
 
 
+### Test Results are like a can of soup when you're hungry
+
+* Unit Tests
+  * Just walk over to your kitchen and it's there. It's easy and solves the problem
+* End-to-end Tests
+  * Get in your car, drive through the zombie apolcalypse to the store, hope the store has soup, fight zombies to get it.
+
+
+### End-to-end tests are so much harder than unit tests
+
+* There are bugs in Selenium drivers
+* Networks can be flaky
+* Services that run the tests like saucelabs can be flaky or have bugs/outages
+* All of this results in a ton of false positives
+
+
+### Re-think reality
+
+* Our axiom of truth is false.
+* Clean stuff that should work doesn't, so let's try messy stuff.
+  * Re-assert failed assertions
+  * Execute click events using jquery rather than Selenium drivers
+  * Ugly stuff to just plain retry tests that fail
+
+
+### Wait, this actually works!
+
+* Not really suitable to open source as-is. Messy, slow, and hard to digest.
+* We can fix this:
+  * Parallelize tests
+  * Report on failure stats, user agents, versions
+* Open source it as a test-runner-runner
+  * Smooths test flake
+  * Give you insight to what is flakey.
+
+
+### Shoveling Shit as a Service
+
+* Momentum \> Perfection
+* Smoothing-over \> Giving up
+* Useful \> Precise
+* Open source \> Closed source
+
+
 
 ### Building a musical instrument with the Web Audio API
 * [Steve Kinney](http://twitter.com/stevekinney)
