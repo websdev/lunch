@@ -56,6 +56,8 @@ Fri Jun 26 | Jeremy Ashkenas: Rise of the Transpilers          | 45 min  | [Link
 Mon Jun 29 | JSConf - Lightning Talk Style (Part 2)            | 45 min  | [Slides](resources/2015-06-29)
 Wed Jul 1  | code is a job                                     | 30 min  | [Slides](https://speakerdeck.com/garann/code-is-a-job)
 Mon Jul 6  | JSConf - Lightning Talk Style (Part 3)            | 45 min  | [Slides](resources/2016-07-06)
+Wed Jul 8  | ????
+Mon Jul 13 | Let's Build a Microservice!                       | 45 min  | [Slides](resources/2016-07-13)
 
 
 ## Rules
