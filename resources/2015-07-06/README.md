@@ -1,18 +1,6 @@
 # <!-- .element class="presentationHeading" --> JSConf 2015 <span class="react">Day 3</span>
 ### Lightning Talk Style
 
-### NodeBots: LIVE!
-* [Kassandra Perch](http://twitter.com/nodebotanist)
-* Summary By: Chris LaPointe
-
-
-> Our semi-yearly episode of NodeBots:Live! We'll have so much to talk (and dance) about! Want to be on the panel? Let me know: the@nodebotani.st
-
-* Their summary was a little short, and website incomplete :), but the core concept is about getting together to make bots with javascript!
-** [NodeBots Live](http://nodebotslive.com/)
-** [NodeBots Website](http://nodebots.io/)
-** [Arduino Bots](https://instagram.com/p/cFVNtmJxlc/)
-
 
 
 ### Altering the real world with JavaScript
@@ -112,6 +100,20 @@ Why?
 * Reading code is slow
 * Interpreter in our head
 * Should be part of our dev tools
+
+
+
+### NodeBots: LIVE!
+* [Kassandra Perch](http://twitter.com/nodebotanist)
+* Summary By: Chris LaPointe
+
+
+> Our semi-yearly episode of NodeBots:Live! We'll have so much to talk (and dance) about! Want to be on the panel? Let me know: the@nodebotani.st
+
+* Their summary was a little short, and website incomplete :), but the core concept is about getting together to make bots with javascript!
+** [NodeBots Live](http://nodebotslive.com/)
+** [NodeBots Website](http://nodebots.io/)
+** [Arduino Bots](https://instagram.com/p/cFVNtmJxlc/)
 
 
 
