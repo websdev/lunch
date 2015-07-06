@@ -181,7 +181,16 @@ js/src/vm/SelfHosting.cpp:    JS_FN("IsPackedArray",           intrinsic_IsPacke
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)
 
 
-> <!-- .element style="font-size: 80%;" --> With the amazing performance of modern single threaded JavaScript how can we catch up in parallelism? Today’s hardware provides specialized instructions that can operate on data in parallel and provides multiple execution units that can run code in parallel. The single threaded nature of classic JavaScript cannot take advantage of these resources. When quad-core smartphones are already available today that leaves a lot of performance potential on the table. I will share work we are doing to extend JavaScript with flexible and powerful primitives for parallelism that will unlock new performance opportunities to the Web. Let’s explore how native code concepts like shared memory and execution synchronization could work in JavaScript. With great power comes great responsibility so I will touch on some mitigation strategies we have in place to make sure tomorrow’s web applications stay well behaved as they use all the horsepower your hardware can provide.
+## Concurrerency vs Parallelism:
+
+* "How can we make JS faster by exploiting hardware availability?"
+* "How do we get native-like performance from the browser/JS?"
+* Answer: utilize the CPU more.
+* "Shared Memory" - low level access in JS. we can parallelize lots of work!
+* Demo of different implementations of a worker/main setup (postMessage vs sharedMemory)
+* Demo of Mendelbrot algorithm with `SharedArrayBuffer`
+  * He brought the CPU to a grinding hault. High CPU utilization goal achieved!
+* Shared Memory is in FF Nightly, Google has committed to implementing for Chrome.
 
 
 
