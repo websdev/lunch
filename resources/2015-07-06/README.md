@@ -85,7 +85,35 @@ adapter.startLeScan([]).then(handle => {
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/10-B.md)
 
 
->What are web components and why you should be using them. Find out how to get started and how Comcast is using Polymer for customer facing applications.
+### The Past:
+
+* HTML was originally used to publish research documents
+* The elements that we currently have in HTML, even HTML5, are too primitive
+  to be useful when constructing modern web applications.
+
+
+### Enter Web Components: High-Level "elements"
+
+* There are four web component specs: Custom Elements, Templates, HTML Imports, Shadow DOM
+* `<template>` - stores its content in memory (instead of printing it to screen)
+* `<template>` can be used to generate content for Custom Elements
+* HTML Imports: request/re-use HTML documents/doc fragments in other documents
+* Shadow DOM: similar to an <iframe> - styles do not leak.
+
+
+## Polymer: a Web Component Library
+
+* Adds sugar to Web Components
+* Polyfills Web Components down to _IE10_.
+* Adds data binding, property observation
+* Ecosystem of Components (https://elements.polymer-project.org/)
+
+
+## Issues:
+
+* Shadow DOM Spec only implemented in Chrome+FF. Polyfill unlocks this for IE10+.
+* Difficult to use with Selenium
+* Difficult to use with AMD, other module-loading systems
 
 
 
