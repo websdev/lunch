@@ -74,7 +74,78 @@
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/16-B.md)
 
 
-> Learn about how browsers/engines leverage JavaScript to implement built-in APIs. Knowing @jdalton there's likely going to be some performance bits too.
+> Learn about how browsers/engines leverage JavaScript to implement built-in APIs.
+
+
+> JavaScript APIs are often implemented early by developers using “polyfills”, but browsers actually often implement them in JavaScript even when official support is added!
+
+
+* `Array.prototype.indexOf`
+* `Intl` - ECMAScript 5.1 Internationalization API
+
+
+`mozilla-release/js/src/builtin/Array.js`:
+<pre><code>/* ES5 15.4.4.15. */
+function ArrayLastIndexOf(searchElement/*, fromIndex*/) {
+    /* Step 1. */
+    var O = ToObject(this);
+
+    /* Steps 2-3. */
+    var len = TO_UINT32(O.length);
+
+    /* Step 4. */
+    if (len === 0)
+        return -1;
+
+    /* Step 5. */
+    var n = arguments.length > 1 ? ToInteger(arguments[1]) : len - 1;
+
+    /* Steps 6-7. */
+    var k;
+    if (n > len - 1)
+        k = len - 1;
+    else if (n &lt; 0)
+        k = len + n;
+    else
+        k = n;
+
+    /* Step 8. */
+    if (IsPackedArray(O)) {
+        for (; k >= 0; k--) {
+            if (O[k] === searchElement)
+                return k;
+        }
+    } else {
+        for (; k >= 0; k--) {
+            if (k in O &amp;&amp; O[k] === searchElement)
+                return k;
+        }
+    }
+
+    /* Step 9. */
+    return -1;
+}</code></pre>
+
+
+#### What's `IsPackedArray`?
+
+
+`~/src/mozilla-release/ grep -F IsPackedArray -R js`:
+<pre><code>js/src/builtin/Array.js:    if (IsPackedArray(O)) {
+js/src/builtin/Array.js:    if (IsPackedArray(O)) {
+js/src/builtin/Array.js:        if (IsPackedArray(O)) {
+js/src/builtin/Array.js:        if (IsPackedArray(O)) {
+js/src/jscntxt.h:bool intrinsic_IsPackedArray(JSContext* cx, unsigned argc, Value* vp);
+js/src/vm/SelfHosting.cpp:js::intrinsic_IsPackedArray(JSContext* cx, unsigned argc, Value* vp)
+js/src/vm/SelfHosting.cpp:    JS_FN("IsPackedArray",           intrinsic_IsPackedArray,           1,0),</code></pre>
+
+
+#### Internationalization API
+
+* Polyfill: https://github.com/andyearnshaw/Intl.js
+* IE 11 implements native `Intl` support using JavaScript!
+* Downsides:
+    * Need to guard against user-space javascript code breaking the `Intl` API
 
 
 
