@@ -29,7 +29,33 @@
 * [Notes](https://github.com/nchase/talks/blob/master/2015/jsconf/12-B.md)
 
 
-> Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
+### Existing Architecture
+* Performance was great
+  * Server-side rendered templates, lazy loading resources, etc.
+* DOM Manipulation bad
+  * jQuery + Backbone = Overrendering
+  * Have to think about low-level DOM performance (code review fights)
+
+
+### Problems With Rewrites
+* Expensive
+* Break a lot of things
+* Stall Developers
+
+
+### Using Existing Infrastructure
+* Back when we were laying phone line, but it was still expensive, they realized they could leverage barb wire fences as a way to transmit telephone signals or lay new phone lines
+  * Farmers actually did this to create phone communcations
+  * It's not perfect, but it's far less expensive when an ideal solution may be feasable for a long time
+
+
+### What They Did
+* Liked the idea of being able to look at individual components and pick libraries for each
+* Used [Reactive](http://www.ractivejs.org/) to precompile Mustache templates into object, not strings
+* Used the Virtual DOM library from [Mercury](https://github.com/Raynos/mercury)
+* Used Backbone to bind events and handle data layer
+* Wrote an integration library to put it all together ([Tungsten](https://github.com/wayfair/tungstenjs) -> open sourced)
+
 
 
 ### Polymer: The future of Web Components
