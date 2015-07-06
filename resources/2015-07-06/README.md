@@ -29,7 +29,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-[![](/resources/2015-07-06/images/mozillaglass.png)]
+![](/resources/2015-07-06/images/mozillaglass.png)
 
 
 ### Scanning on Bluetooth
