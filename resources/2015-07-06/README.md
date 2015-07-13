@@ -74,7 +74,7 @@ Their summary was a little short, and website incomplete :), but the core concep
 * `<template>` - stores its content in memory (instead of printing it to screen)
 * `<template>` can be used to generate content for Custom Elements
 * HTML Imports: request/re-use HTML documents/doc fragments in other documents
-* Shadow DOM: similar to an <iframe> - styles do not leak.
+* Shadow DOM: similar to an `<iframe>` - styles do not leak.
 
 
 ## Polymer: a Web Component Library
