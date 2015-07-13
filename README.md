@@ -1,6 +1,6 @@
 # Lunch Club
 
-The goal of Lunch Club is to preserve, bolster, and advance Digital's culture
+The goal of Lunch Club is to preserve, bolster, and advance our development culture
 of excellence and innovation by sharing stuff that we love as often as possible,
 with as little friction, pomp, and ceremony as possible.
 
@@ -16,7 +16,7 @@ For those of you who would like to attend but can't be at the lunch talk in pers
 
 `886283733`
 
-Ask any of the contributors, or @nchase for the meetme pin.
+To get the PIN, ask any of the contributors, @nchase or @nmielnik.
 
 ## Acceptable Content
 
