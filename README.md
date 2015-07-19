@@ -58,6 +58,7 @@ Wed Jul 1  | code is a job                                     | 30 min  | [Slid
 Mon Jul 6  | JSConf - Lightning Talk Style (Part 3)            | 45 min  | [Slides](resources/2015-07-06)
 Wed Jul 8  | ????
 Mon Jul 13 | Let's Build a Microservice!                       | 45 min  | [Slides](resources/2015-07-13)
+Mon Jul 27 | I read the UI Events Spec (and all I got were these lousy notes) | 45 min | [Slides](resources/2015-07-27)
 
 
 ## Rules
