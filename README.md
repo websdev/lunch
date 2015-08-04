@@ -59,6 +59,7 @@ Mon Jul 6  | JSConf - Lightning Talk Style (Part 3)            | 45 min  | [Slid
 Wed Jul 8  | ????
 Mon Jul 13 | Let's Build a Microservice!                       | 45 min  | [Slides](resources/2015-07-13)
 Mon Jul 27 | I read the UI Events Spec (and all I got were...) | 45 min  | [Slides](https://github.com/nmielnik/notes/blob/master/dom-events/lunch-talk-07-27-2015.md)
+Fri Aug 07 | Implementing a Strong Code Review Culture         | 60 min  | [Link](resources/2015-08-07)
 
 
 ## Rules
