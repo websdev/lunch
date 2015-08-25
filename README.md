@@ -61,6 +61,7 @@ Mon Jul 13 | Let's Build a Microservice!                       | 45 min  | [Slid
 Mon Jul 27 | I read the UI Events Spec (and all I got were...) | 45 min  | [Slides](https://github.com/nmielnik/notes/blob/master/dom-events/lunch-talk-07-27-2015.md)
 Fri Aug 07 | Implementing a Strong Code Review Culture         | 60 min  | [Link](resources/2015-08-07)
 Wed Aug 26 | Fun with Feature Flags                            | 45 min  | Content TBD
+Fri Aug 28 | Not Even Close The State of Computer Security     | 30 min  | [Video](https://youtu.be/O0uCeq3vb34)
 
 ## Rules
 
