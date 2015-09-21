@@ -62,6 +62,7 @@ Mon Jul 27 | I read the UI Events Spec (and all I got were...) | 45 min  | [Slid
 Fri Aug 07 | Implementing a Strong Code Review Culture         | 60 min  | [Link](resources/2015-08-07)
 Wed Aug 26 | Fun with Feature Flags                            | 45 min  | Content TBD
 Fri Sep 4  | Not Even Close The State of Computer Security     | 30 min  | [Video](https://vimeo.com/135347162)
+TBD [Soon] | Short Talk One-Two Punch                          | 30 min  | [Link](resources/2015-09-21)
 
 ## Rules
 
