@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic);
+
+body {
+  color: #fff;
+  background-color: #EC1E42;
+  font-family: 'Alice', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.splash h1 {
+  margin: 1em 0;
+}
+.splash .love {
+  display: block;
+  font-size: 2em;
+}
+
+.whois {
+  margin: 1em 0;
+}
+.mcilroy {
+  font-size: 1.25em;
+}
+.valentine {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+
+@keyframes heartbeat {
+  0% {
+    transform: rotate(45deg) scale(1);
+  }
+  14% {
+    transform: rotate(45deg) scale(1.3);
+  }
+  28% {
+    transform: rotate(45deg) scale(1);
+  }
+  42% {
+    transform: rotate(45deg) scale(1.3);
+  }
+  70% {
+    transform: rotate(45deg) scale(1);
+  }
+}
+
+.heartbeat {
+  animation: heartbeat 1300ms ease 0s infinite normal;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  text-indent: -9999px;
+  width: 36px;
+  height: 36px;
+  transform: rotate(45deg) scale(1);
+  transform-origin: 50% 50%;
+}
+.heartbeat:after, .heartbeat:before {
+  position: absolute;
+  content: "";
+  background-color: #fff;
+}
+.heartbeat:before {
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+  top: 12px;
+  left: 0;
+  width: 36px;
+  height: 24px;
+}
+.heartbeat:after {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  top: 0;
+  left: 12px;
+  width: 24px;
+  height: 12px;
+}
+
