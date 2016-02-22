@@ -63,6 +63,7 @@ Fri Aug 07 | Implementing a Strong Code Review Culture         | 60 min  | [Link
 Wed Aug 26 | Fun with Feature Flags                            | 45 min  | Content TBD
 Fri Sep 4  | Not Even Close The State of Computer Security     | 30 min  | [Video](https://vimeo.com/135347162)
 Wed Feb 10 | Who Do You Love?                                  | 60 min  | [Link](resources/2016-02-10)
+Mon Feb 22 | Om Next talk                                      | 60 min  | [Video](https://www.youtube.com/watch?v=MDZpSIngwm4)
 
 ## Rules
 
