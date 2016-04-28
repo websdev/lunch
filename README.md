@@ -64,6 +64,7 @@ Wed Aug 26 | Fun with Feature Flags                            | 45 min  | Conte
 Fri Sep 4  | Not Even Close The State of Computer Security     | 30 min  | [Video](https://vimeo.com/135347162)
 Wed Feb 10 | Who Do You Love?                                  | 60 min  | [Link](resources/2016-02-10)
 Mon Feb 22 | Om Next talk                                      | 60 min  | [Video](https://www.youtube.com/watch?v=MDZpSIngwm4)
+Wed Apr 13 | Lunch+Learn: PAID, Fraud, and Auth                | 60 min  | [Link](https://github.com/websdev/paid-scripts/blob/master/presentations/paid-apr-2016.md)
 
 ## Rules
 
