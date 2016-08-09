@@ -66,6 +66,8 @@ Wed Feb 10 | Who Do You Love?                                  | 60 min  | [Link
 Mon Feb 22 | Om Next talk                                      | 60 min  | [Video](https://www.youtube.com/watch?v=MDZpSIngwm4)
 Wed Apr 13 | Lunch+Learn: PAID, Fraud, and Auth                | 60 min  | [Link](https://github.com/websdev/paid-scripts/blob/master/presentations/paid-apr-2016.md)
 Thu Apr 21 | 'Drive' Book Review                               | 30 min  | [Link](resources/2016-04-21)
+Wed Aug 9  | Get a Wiff of This                                | 40 min  | [Video](http://confreaks.tv/videos/railsconf2016-get-a-whiff-of-this)
+
 
 ## Rules
 
