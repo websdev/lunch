@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+  color: #fefefe;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Mistral, cursive;
+  color: #e7429c;
+  text-align: left;
+}
+
+.titleline {
+  padding-top: 2em;
+  position: relative;
+  display: inline-block;
+}
+
+.h1--title {
+  margin: 0;
+  font-size: 8em;
+}
+
+.titleline p {
+  font-family: Futura, sans-serif;
+}
