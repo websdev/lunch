@@ -68,6 +68,7 @@ Wed Apr 13 | Lunch+Learn: PAID, Fraud, and Auth                | 60 min  | [Link
 Thu Apr 21 | 'Drive' Book Review                               | 30 min  | [Link](resources/2016-04-21)
 Wed Aug 9  | Get a Wiff of This                                | 40 min  | [Video](http://confreaks.tv/videos/railsconf2016-get-a-whiff-of-this)
 Wed Nov 16 | Continuation Local Storage in Node.js             | 40 min  | [Link](resources/2016-11-16)
+Tue Apr 03 | Practicing Git                                    | 60 min  | [Slides](resources/2018-04-03) [Video](https://drive.google.com/file/d/1dQURhc6WSqM-w_7CY4pzu_tuGP6G-Qo0/view)
 
 
 ## Rules
