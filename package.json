@@ -17,7 +17,7 @@
     "babel": "^5.0.0",
     "ejs": "^2.5.8",
     "express": "^4.0.0",
-    "reveal.js": "^3.6.0"
+    "reveal.js": "^3.9.2"
   },
   "bugs": {
     "url": "https://github.com/websdev/lunch/issues"
