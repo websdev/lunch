@@ -14,10 +14,10 @@
   "author": "Webs (a.k.a Vistaprint Digital)",
   "license": "ISC",
   "dependencies": {
-    "babel": "^5.0.0",
+    "babel": "^6.0.0",
     "ejs": "^2.5.8",
     "express": "^4.0.0",
-    "reveal.js": "^3.6.0"
+    "reveal.js": "^4.0.0"
   },
   "bugs": {
     "url": "https://github.com/websdev/lunch/issues"
